@@ -1,0 +1,4 @@
+- dem Anschein nach Kriminalität der Jugendlichen steigt
+- Statistik täusch, denn
+	- es werden Anzeigen gezählt -> auf Verteilungen wird nicht Rücksicht genommen
+	- Freisprüche werden nicht gezählt
