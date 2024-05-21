@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a878b948537701fc",
+        "id": "fc949b0c5322f5ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8b9ea96ccc2bb1dd",
+            "id": "8fd53ddc1eb04714",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,26 +16,6 @@
                 "file": "Schule/BW/Logistik.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "40d05cd20f42f1da",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-17 08.12.29.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c0aea59a15031d3d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 09.06.35.excalidraw.md"
               }
             }
           }
@@ -85,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,20 +149,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b241889605ffbdf5",
+  "active": "8fd53ddc1eb04714",
   "lastOpenFiles": [
-    "Schule/BW/Logistik.md",
-    "Pasted image 20240521114830.png",
-    "Pasted image 20240521114829.png",
-    "Pasted image 20240521114828 1.png",
-    "Pasted image 20240521114828.png",
-    "Pasted image 20240521114827.png",
+    "Pasted image 20240430130240.png",
+    "IMG_4080 2.jpg",
+    "Pasted image 20240219113416.png",
     "Pasted image 20240521114826.png",
-    "Schule/Mathe/Imaginäre Zahlen.md",
+    "Pasted image 20240521114827.png",
+    "Pasted image 20240521114828.png",
+    "Pasted image 20240521114828 1.png",
+    "Pasted image 20240521114829.png",
+    "Excalidraw/Drawing 2024-05-16 09.06.35.excalidraw.md",
     "Excalidraw/Drawing 2024-05-17 08.12.29.excalidraw.md",
+    "Pasted image 20240521114830.png",
+    "Schule/BW/Logistik.md",
+    "Schule/Mathe/Imaginäre Zahlen.md",
     "Schule/Mathe/Sinus und Co..md",
     "Schule/Chemie/Protokolle/Pufferwirkung von Zahnpasten.md",
-    "Excalidraw/Drawing 2024-05-16 09.06.35.excalidraw.md",
     "Schule/SYT/BS/Backups.md",
     "Schule/SYT/GINF/Massenspeicher.md",
     "Schule/SYT/BS/Unbenannt.md",
@@ -203,9 +185,6 @@
     "Schule/Chemie/Chemische Reaktionen.md",
     "Schule/Chemie/Stöchiometrie.md",
     "Schule/Chemie/Teststoff 3. Test und neuer Stoff über Basen.md",
-    "Pasted image 20240430130240.png",
-    "Pasted image 20240219113416.png",
-    "IMG_4080 2.jpg",
     "Pasted image 20240222155715.png",
     "Schule/Mathe/Unbenannt",
     "Unbenannt.canvas",
