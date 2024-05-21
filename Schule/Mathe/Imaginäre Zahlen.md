@@ -59,3 +59,4 @@ BS.: 212
 $z = a + bj =$        $n * (cos\phi + j * sin\phi) = r * e^{j\phi}$
 Komponenten...     trigonometrische...      Exponenten-form
 
+![[Drawing 2024-05-17 08.12.29.excalidraw | 1000]]

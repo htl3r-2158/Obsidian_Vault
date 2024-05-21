@@ -9351,7 +9351,7 @@
             "containerId": null,
             "originalText": "x",
             "lineHeight": 1.2,
-            "baseline": 20
+            "baseline": 17
           },
           {
             "type": "text",
@@ -9390,7 +9390,7 @@
             "containerId": null,
             "originalText": "y",
             "lineHeight": 1.2,
-            "baseline": 20
+            "baseline": 17
           },
           {
             "type": "text",
@@ -9429,7 +9429,7 @@
             "containerId": null,
             "originalText": "z",
             "lineHeight": 1.2,
-            "baseline": 20
+            "baseline": 17
           },
           {
             "type": "line",
@@ -22619,7 +22619,7 @@
             "containerId": null,
             "originalText": "x",
             "lineHeight": 1.2,
-            "baseline": 20
+            "baseline": 17
           },
           {
             "type": "text",
@@ -22658,7 +22658,7 @@
             "containerId": null,
             "originalText": "z",
             "lineHeight": 1.2,
-            "baseline": 20
+            "baseline": 17
           },
           {
             "type": "text",
@@ -22697,7 +22697,7 @@
             "containerId": null,
             "originalText": "y",
             "lineHeight": 1.2,
-            "baseline": 20
+            "baseline": 17
           }
         ],
         "created": 1680957643805,
