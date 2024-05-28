@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc949b0c5322f5ff",
+        "id": "786024c8f5795ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "8fd53ddc1eb04714",
+            "id": "840cfab173b6eb75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/BW/Logistik.md",
+                "file": "Schule/NWT/Switching.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Schule/\" ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/BW/Logistik.md",
+                "file": "Schule/NWT/Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/BW/Logistik.md",
+                "file": "Schule/NWT/Switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/BW/Logistik.md"
+                "file": "Schule/NWT/Switching.md"
               }
             }
           }
@@ -149,8 +149,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8fd53ddc1eb04714",
+  "active": "840cfab173b6eb75",
   "lastOpenFiles": [
+    "Schule/Reli/Hermenentik.md",
+    "Schule/NWT/Switching.md",
+    "Schule/Chemie/Das Chemische Gleichgewicht.md",
+    "Schule/Chemie/Teststoff 3. Test und neuer Stoff über Basen.md",
+    "Schule/Chemie/Säuren und Basen.md",
+    "Schule/Chemie/Chemische Reaktionen.md",
+    "Schule/Chemie/Chemische Industrie.md",
+    "Schule/Chemie/Reaktionsgeschwindigkeit.md",
+    "Schule/Mathe/Trigonometrie des allgemeinen Dreiecks.md",
+    "Excalidraw/Drawing 2024-04-18 12.59.25.excalidraw.md",
+    "Schule/Mathe/Trigonometrie.md",
+    "Schule/Mathe/Sinus und Co..md",
+    "Schule/Mathe/Imaginäre Zahlen.md",
+    "Schule/SYT/BS/Klassische Kryptographie.md",
+    "Schule/SYT/GINF/Arbeitsspeicher und so zeug.md",
+    "Schule/BW/Logistik.md",
     "Pasted image 20240430130240.png",
     "IMG_4080 2.jpg",
     "Pasted image 20240219113416.png",
@@ -162,29 +178,14 @@
     "Excalidraw/Drawing 2024-05-16 09.06.35.excalidraw.md",
     "Excalidraw/Drawing 2024-05-17 08.12.29.excalidraw.md",
     "Pasted image 20240521114830.png",
-    "Schule/BW/Logistik.md",
-    "Schule/Mathe/Imaginäre Zahlen.md",
-    "Schule/Mathe/Sinus und Co..md",
     "Schule/Chemie/Protokolle/Pufferwirkung von Zahnpasten.md",
     "Schule/SYT/BS/Backups.md",
     "Schule/SYT/GINF/Massenspeicher.md",
-    "Schule/SYT/BS/Unbenannt.md",
     "Excalidraw/Drawing 2024-05-06 08.45.24.excalidraw.md",
     "Schule/SYT/GETE/Wechselstromtechnik.md",
     "Excalidraw/Drawing 2024-05-06 08.38.01.excalidraw.md",
     "Excalidraw/Drawing 2024-05-06 08.12.13.excalidraw.md",
     "Excalidraw/Drawing 2024-05-03 08.30.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-03 08.22.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-02 13.50.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-02 13.14.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-02 13.00.43.excalidraw.md",
-    "Schule/Mathe/Trigonometrie.md",
-    "Schule/Chemie/Reaktionsgeschwindigkeit.md",
-    "Schule/Chemie/Das Chemische Gleichgewicht.md",
-    "Schule/Chemie/Chemische Industrie.md",
-    "Schule/Chemie/Chemische Reaktionen.md",
-    "Schule/Chemie/Stöchiometrie.md",
-    "Schule/Chemie/Teststoff 3. Test und neuer Stoff über Basen.md",
     "Pasted image 20240222155715.png",
     "Schule/Mathe/Unbenannt",
     "Unbenannt.canvas",
