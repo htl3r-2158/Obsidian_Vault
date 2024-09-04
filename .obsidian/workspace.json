@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
+                "file": "Schule/English/Unbenannt.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7aab28d2558e3f9e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-04 13.37.34.excalidraw.md"
               }
             }
           },
@@ -79,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -96,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
+                "file": "Schule/English/Unbenannt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
+                "file": "Schule/English/Unbenannt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md"
+                "file": "Schule/English/Unbenannt.md"
               }
             }
           },
@@ -168,10 +177,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aace05ff4f98a21f",
+  "active": "7eb89e7c452dcedf",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-04 12.17.20.excalidraw.md",
+    "Schule/INSI/ER-Modell.md",
+    "Schule/English/Unbenannt.md",
+    "large_en.txt",
+    "Schule/INSI/Einführung.md",
+    "Excalidraw/Drawing 2024-09-04 13.37.34.excalidraw.md",
     "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
+    "Schule/INSI",
+    "Excalidraw/Drawing 2024-09-04 12.17.20.excalidraw.md",
     "Schule/Unbenannt.md",
     "Schule/Mathe/Wiederholung vom 2. Schuiljahr.md",
     "Schule/BW/Qualitätsmanagement",
@@ -194,10 +209,6 @@
     "Schule/Mathe/Vektorrechnung.md",
     "Excalidraw/Drawing 2024-05-31 08.43.17.excalidraw.md",
     "Schule/NWT/Switching.md",
-    "2024-05-31.md",
-    "Schule/Reli/Hermenentik.md",
-    "Schule/Chemie/Das Chemische Gleichgewicht.md",
-    "Schule/Chemie/Chemische Reaktionen.md",
     "Pasted image 20240430130240.png",
     "IMG_4080 2.jpg",
     "Pasted image 20240219113416.png",
@@ -219,8 +230,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Excalidraw",
-    "OneNote",
     "Untitled 3.canvas"
   ]
 }
