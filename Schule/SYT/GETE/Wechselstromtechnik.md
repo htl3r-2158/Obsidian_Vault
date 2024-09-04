@@ -36,3 +36,23 @@ $\omega = 2 * \pi * f$
 $I = \frac{U}{R}$
 
 Spannung und Strom haben die selbe #Phasenlage (Zeigerrichtung) Ein Widerstand leitet alle Frequenzen gleich gut.
+
+## Impedanz
+
+> $Z = R+jX$
+
+
+$Z_R = R$
+$Z_L = j \omega L$
+$Z_C = -\frac{j}{\omega C} = \frac{1}{j \omega C}$
+
+### Bsp.:
+$U_q = 10V$
+$f = 11288Hz$
+$R = 10 \ohm$
+$C = 470 nF$
+$ges: \ I, U_r; U_C$
+
+![[Drawing 2024-06-10 08.15.56.excalidraw]]
+### Bsp.:
+![[Drawing 2024-06-10 08.32.02.excalidraw]]

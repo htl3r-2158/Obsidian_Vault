@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "786024c8f5795ec6",
+        "id": "bb8e6fd782230b23",
         "type": "tabs",
         "children": [
           {
-            "id": "840cfab173b6eb75",
+            "id": "7eb89e7c452dcedf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/NWT/Switching.md",
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5334f9aa590f5e6c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-04 12.17.20.excalidraw.md"
               }
             }
           }
@@ -69,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/NWT/Switching.md",
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/NWT/Switching.md",
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +136,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/NWT/Switching.md"
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md"
               }
+            }
+          },
+          {
+            "id": "20b3be9e94ab8ec8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -149,24 +168,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "840cfab173b6eb75",
+  "active": "aace05ff4f98a21f",
   "lastOpenFiles": [
-    "Schule/Reli/Hermenentik.md",
-    "Schule/NWT/Switching.md",
-    "Schule/Chemie/Das Chemische Gleichgewicht.md",
-    "Schule/Chemie/Teststoff 3. Test und neuer Stoff über Basen.md",
+    "Excalidraw/Drawing 2024-09-04 12.17.20.excalidraw.md",
+    "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
+    "Schule/Unbenannt.md",
+    "Schule/Mathe/Wiederholung vom 2. Schuiljahr.md",
+    "Schule/BW/Qualitätsmanagement",
+    "Schule/Mathe/Wiederholung vom 2. Schuiljahr.html",
+    "Excalidraw/Drawing 2024-06-10 08.15.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-10 08.32.02.excalidraw.md",
+    "Schule/Chemie/Organische Chemie.md",
+    "Excalidraw/Drawing 2024-09-04 08.02.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-04 08.02.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-04 08.02.32.excalidraw.md",
+    "Schule/Chemie/Atombindung.md",
+    "Schule/Chemie/Intermolekulare Wechselwirkungen.md",
     "Schule/Chemie/Säuren und Basen.md",
+    "Schule/Chemie/Teststoff 3. Test und neuer Stoff über Basen.md",
+    "Schule/Chemie/Stöchiometrie.md",
+    "Schule/SYT/GETE/Wechselstromtechnik.md",
+    "Schule/SYT/GINF/Signale.md",
+    "Excalidraw/Drawing 2024-06-06 13.04.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-06 13.44.50.excalidraw.md",
+    "Schule/Mathe/Vektorrechnung.md",
+    "Excalidraw/Drawing 2024-05-31 08.43.17.excalidraw.md",
+    "Schule/NWT/Switching.md",
+    "2024-05-31.md",
+    "Schule/Reli/Hermenentik.md",
+    "Schule/Chemie/Das Chemische Gleichgewicht.md",
     "Schule/Chemie/Chemische Reaktionen.md",
-    "Schule/Chemie/Chemische Industrie.md",
-    "Schule/Chemie/Reaktionsgeschwindigkeit.md",
-    "Schule/Mathe/Trigonometrie des allgemeinen Dreiecks.md",
-    "Excalidraw/Drawing 2024-04-18 12.59.25.excalidraw.md",
-    "Schule/Mathe/Trigonometrie.md",
-    "Schule/Mathe/Sinus und Co..md",
-    "Schule/Mathe/Imaginäre Zahlen.md",
-    "Schule/SYT/BS/Klassische Kryptographie.md",
-    "Schule/SYT/GINF/Arbeitsspeicher und so zeug.md",
-    "Schule/BW/Logistik.md",
     "Pasted image 20240430130240.png",
     "IMG_4080 2.jpg",
     "Pasted image 20240219113416.png",
@@ -175,17 +206,7 @@
     "Pasted image 20240521114828.png",
     "Pasted image 20240521114828 1.png",
     "Pasted image 20240521114829.png",
-    "Excalidraw/Drawing 2024-05-16 09.06.35.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-17 08.12.29.excalidraw.md",
     "Pasted image 20240521114830.png",
-    "Schule/Chemie/Protokolle/Pufferwirkung von Zahnpasten.md",
-    "Schule/SYT/BS/Backups.md",
-    "Schule/SYT/GINF/Massenspeicher.md",
-    "Excalidraw/Drawing 2024-05-06 08.45.24.excalidraw.md",
-    "Schule/SYT/GETE/Wechselstromtechnik.md",
-    "Excalidraw/Drawing 2024-05-06 08.38.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-06 08.12.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-03 08.30.39.excalidraw.md",
     "Pasted image 20240222155715.png",
     "Schule/Mathe/Unbenannt",
     "Unbenannt.canvas",
@@ -200,8 +221,6 @@
     "Untitled.canvas",
     "Excalidraw",
     "OneNote",
-    "Schule/Untitled",
-    "Schule/BW",
     "Untitled 3.canvas"
   ]
 }

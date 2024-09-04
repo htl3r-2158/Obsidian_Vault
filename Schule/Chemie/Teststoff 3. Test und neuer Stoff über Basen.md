@@ -52,3 +52,7 @@ $KOH +  HF ⇄ KF + H_2O$
 # Titration
 #quantitative-Analyse = Wie viel von meinem Stoff vorhanden
 
+
+
+Schwefel ist $VI$
+Natrium ist $I$
