@@ -40,11 +40,12 @@ Spannung und Strom haben die selbe #Phasenlage (Zeigerrichtung) Ein Widerstand l
 ## Impedanz
 
 > $Z = R+jX$
+> Widerstand den man dann wie ein Widerstand bei Gleichspannung berechnen kann
 
 
-$Z_R = R$
-$Z_L = j \omega L$
-$Z_C = -\frac{j}{\omega C} = \frac{1}{j \omega C}$
+Normaler Widerstand: $Z_R = R$
+Spule : $Z_L = j \omega L$
+Kondensator: $Z_C = -\frac{j}{\omega C} = \frac{1}{j \omega C}$
 
 ### Bsp.:
 $U_q = 10V$
@@ -56,3 +57,19 @@ $ges: \ I, U_r; U_C$
 ![[Drawing 2024-06-10 08.15.56.excalidraw]]
 ### Bsp.:
 ![[Drawing 2024-06-10 08.32.02.excalidraw]]
+
+**:: Ab hier im 3. Jahrgang ::**
+
+Widerstand (R), Spule (L) Kondensator (C) bei sinusförmiger Wechselspannung
+
+| Bauteil         | Zeichen                                     | Formel                                                         | Leitereigenschaft                       | Phasenlage                                      |
+| --------------- | ------------------------------------------- | -------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------- |
+| Widerstand $R$  | ![[Drawing 2024-09-05 12.04.57.excalidraw]] | $I = \frac{U}{R}$                                              | leitet alle Frequenzen gleich gut       | Spannung und Strom haben die gleiche Phasenlage |
+| Spule $L$       | ![[Drawing 2024-09-05 12.10.22.excalidraw]] | $I = \frac{U}{X_L}$ $X_L = \omega * L$<br>$\omega = 2 \pi * f$ | leitet tiefe Frequenzen besser als hohe | Der Strom eilt gegenüber der Spannung 90° nach  |
+| Kondensator $C$ | ![[Drawing 2024-09-05 12.10.45.excalidraw]] | $I = -\frac{U}{X_C}$ $X_C = - \frac{1}{\omega C}$              | leitet hohe Frequenzen besser           | Der Strom geht der Spannung um 90° vor          |
+
+## Bsp.:
+![[Drawing 2024-09-05 12.12.42.excalidraw]]
+
+## Bsp.:
+![[Drawing 2024-09-05 12.21.09.excalidraw]]
