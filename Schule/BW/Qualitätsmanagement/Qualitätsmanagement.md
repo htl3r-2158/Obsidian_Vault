@@ -22,3 +22,21 @@ Neben den Produkteigenschaften gehören zu den #Qualitätsmerkmal en aber auch M
 #Begeisterungsanforderungen werden vom Kunden nicht erwartet, aber mit Begeisterung wahrgenommen
 
 ![[Drawing 2024-09-04 12.17.20.excalidraw | 1000]]
+
+## Fehler
+
+Bei vielen Qualitätsmerkmalen ist es kaum bzw. gar nicht möglich, den Merkmalswert bei der Herstellung der Produkt genau zu erreichen.
+
+Es wird daher meist ein #Bandbreite angegeben, wobei der Bereich zwischen oberem und unterem Grenzwert als #Toleranzbereich bezeichnet wird. Liegt der am Produkt gemessene Istwert des Qualitätsmerkmals außerhalb dieses Toleranzbereich, hat dieses Produkt einen Fehler und muss ausgeschieden werden.
+
+## Qualität und Fehler
+Abweichungen von den Merkmalen, die Qualität ausmachen, sind Fehler. Zuerst werden diese Merkmale definiert. Dann kann eine Bandbreite von zulässigen Abweichungen festgelegt werden, welche Prozesse, Leistungen oder Produkte so fehlerhaft sind, dass sie nicht mehr verwendbar (verkaufbar) sind.
+Diese Bandbreite wird Toleranz genannt.
+
+- #Nebenfehler entsprechen geringen Abweichungen von den festgesetzten Merkmalen, welche die Funktionalität nur unwesentlich mildern.
+- #Hauptfehler sind nicht kritisch, können aber zu einem Ausfall führen
+- #Kritische-Fehler können zu einer Gefahr für Personen werden.
+### Qualitätskosten
+- #Fehlerkosten entstehen dadurch, dass die hergestellten Produkte den festgelegten Qualitätsmerkmalen nicht entsprechen. Dies sind beispielsweise Kosten für Ausschuss, Nacharbeit, Garantieleistungen, Produkthaftung, Imageverlust usw.
+- #Fehlerverhütungkosten für die vorbeugende Fehlervermeidung. Dazu gehören Qualitätsplanung, Lieferantenbeurteilung, Prüfplanung und Mitarbeiterschulung
+- #Prüfkosten der laufenden Kontrolle der Qualität in der Fertigung. Sie umfassen Wareneingangsprüfung, Fertigungszwischenprüfung, Endprüfung, Laboruntersuchungen und Prüfmittel

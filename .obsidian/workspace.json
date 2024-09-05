@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/SYT/GETE/Wechselstromtechnik.md",
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/SYT/GETE/Wechselstromtechnik.md",
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/SYT/GETE/Wechselstromtechnik.md",
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/SYT/GETE/Wechselstromtechnik.md"
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md"
               }
             }
           },
@@ -221,8 +221,8 @@
   },
   "active": "7eb89e7c452dcedf",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-05 12.21.09.excalidraw.md",
     "Schule/SYT/GETE/Wechselstromtechnik.md",
+    "Excalidraw/Drawing 2024-09-05 12.21.09.excalidraw.md",
     "Excalidraw/Drawing 2024-09-05 12.12.42.excalidraw.md",
     "Excalidraw/Drawing 2024-09-05 12.10.45.excalidraw.md",
     "Excalidraw/Drawing 2024-09-05 12.10.22.excalidraw.md",

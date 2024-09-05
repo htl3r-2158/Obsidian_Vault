@@ -4,5 +4,7 @@
   "obsidian-git",
   "obsidian-functionplot",
   "obsidian-pandoc",
-  "obsidian-completr"
+  "obsidian-completr",
+  "obsidian-dictionary-plugin",
+  "better-word-count"
 ]
