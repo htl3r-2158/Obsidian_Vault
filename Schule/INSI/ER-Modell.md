@@ -1,3 +1,4 @@
+#ER-Modell
 _Informationssysteme (INSY) - Datenbanken_
 
 ## Das Entity-Relationship-Modell
@@ -103,9 +104,12 @@ a[Klasse] ---|n| b{arbeitet an}
 c[Personen] ---|m| b
 ```
 
-### Möglichkeiten von Kardinalität
+### Möglichkeiten von #Kardinalität
+
 | Kürzel | Bezeichnung            | Erläuterung                                                                                                                                   |
 | ------ | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1:1    | Eins-zu-eins-Beziehung | Jede Entity eines Entity-Sets kann genau einer Entity eines anderen Entity-Sets zugeordnet                                                    |
 | 1:n    | Eins-zu-n-Beziehung    | Jede Entity-Set kann einer oder mehreren Entities zugeordnet sein                                                                             |
 | n:m    | n-zu-m-Beziehung       | Eine Entity oder mehrere Entities eines Entity-Sets kann/können einem Entity oder mehreren Entities eines anderen Entity-Sets zugeordnet sein |
+## Beispiel für Beziehungen
+![[Drawing 2024-09-11 13.49.51.excalidraw]]

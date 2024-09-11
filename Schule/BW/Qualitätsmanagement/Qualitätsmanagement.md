@@ -40,3 +40,16 @@ Diese Bandbreite wird Toleranz genannt.
 - #Fehlerkosten entstehen dadurch, dass die hergestellten Produkte den festgelegten Qualitätsmerkmalen nicht entsprechen. Dies sind beispielsweise Kosten für Ausschuss, Nacharbeit, Garantieleistungen, Produkthaftung, Imageverlust usw.
 - #Fehlerverhütungkosten für die vorbeugende Fehlervermeidung. Dazu gehören Qualitätsplanung, Lieferantenbeurteilung, Prüfplanung und Mitarbeiterschulung
 - #Prüfkosten der laufenden Kontrolle der Qualität in der Fertigung. Sie umfassen Wareneingangsprüfung, Fertigungszwischenprüfung, Endprüfung, Laboruntersuchungen und Prüfmittel
+#Qualitätskosten sind abhängig vom #Qualitätsniveau im Unternehmen.
+#### Qualitätskosten vs. Fehlerfolgekosten
+
+## Bereiche des Qualitätsmanagement
+```mermaid
+graph TD
+a(Qualitätsmanagement) --- b(Qualitätsplanung)
+a --- c(Qualitätsprüfung)
+a --- d(Qualitätslenkung)
+a --- e(Qualitätsverbesserung)
+```
+> #Qualitätsmanagement umfasst die Planung und Organisation aller Maßnahmen, die notwendig sind, um die gewünschte bzw. geforderte Qualität der Produkte sicherzustellen.
+
