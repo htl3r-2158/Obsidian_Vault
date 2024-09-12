@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:excalidraw",
@@ -97,6 +97,20 @@
         "a": 1,
         "rgb": 16711791
       }
+    },
+    {
+      "query": "path:Schule/INSI  ",
+      "color": {
+        "a": 1,
+        "rgb": 7682304
+      }
+    },
+    {
+      "query": "path:Schule/ITP",
+      "color": {
+        "a": 1,
+        "rgb": 412010
+      }
     }
   ],
   "collapse-display": false,
@@ -109,6 +123,6 @@
   "repelStrength": 20,
   "linkStrength": 0.544982698961938,
   "linkDistance": 30,
-  "scale": 0.0426748671352198,
+  "scale": 0.04181841947891437,
   "close": true
 }

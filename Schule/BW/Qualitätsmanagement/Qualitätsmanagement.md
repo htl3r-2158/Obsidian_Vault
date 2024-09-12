@@ -40,9 +40,8 @@ Diese Bandbreite wird Toleranz genannt.
 - #Fehlerkosten entstehen dadurch, dass die hergestellten Produkte den festgelegten Qualitätsmerkmalen nicht entsprechen. Dies sind beispielsweise Kosten für Ausschuss, Nacharbeit, Garantieleistungen, Produkthaftung, Imageverlust usw.
 - #Fehlerverhütungkosten für die vorbeugende Fehlervermeidung. Dazu gehören Qualitätsplanung, Lieferantenbeurteilung, Prüfplanung und Mitarbeiterschulung
 - #Prüfkosten der laufenden Kontrolle der Qualität in der Fertigung. Sie umfassen Wareneingangsprüfung, Fertigungszwischenprüfung, Endprüfung, Laboruntersuchungen und Prüfmittel
-#Qualitätskosten sind abhängig vom #Qualitätsniveau im Unternehmen.
-#### Qualitätskosten vs. Fehlerfolgekosten
 
+#Qualitätskosten sind abhängig vom #Qualitätsniveau im Unternehmen.
 ## Bereiche des Qualitätsmanagement
 ```mermaid
 graph TD
@@ -53,3 +52,38 @@ a --- e(Qualitätsverbesserung)
 ```
 > #Qualitätsmanagement umfasst die Planung und Organisation aller Maßnahmen, die notwendig sind, um die gewünschte bzw. geforderte Qualität der Produkte sicherzustellen.
 
+### Qualitätsplanung
+erreichende Qualitätsmerkmale und Bandbreite der zulässigen Abweichungen werden festgelegt. Prozesse und Ressourcen definieren.
+
+### Qualitätslenkung
+Überwachung der qualitätsrelvanten Prozesse, Beseitigung von Gründen die zu einer Qualitätsabweichung geführt haben
+	Ergebnisse der Qualitätsprüfung
+
+### Qualitätsprüfung
+Überwacht ob durchgeführte Prozesse, Leistungen, etc. den Qualitätsanforderungen entsprechen.
+Prüfmerkmale werden definiert
+Wenn Ergebnisse außerhalb den vorgegebenen Toleranzen -> Anpassungen
+Entweder #Vollprüfung oder #Stichprobenprüfung (aufgrund von statistischen Verfahren)
+
+### Prüfplanung
+
+| Fragestellung              | Erläuterung                                             | Beispiel                                  |
+| -------------------------- | ------------------------------------------------------- | ----------------------------------------- |
+| Was?                       | Welches Merkmal?                                        | Maßgenauigkeit                            |
+| Wie viel?                  | Welche Stückkzahl? Vollprüfung oder Stichprobenprüfung? |                                           |
+| Wie oft?                   | Welche Häufigkeit?                                      | jedes 100 Stück, stündlich täglich        |
+| Womit?                     | Welches Prüfmittel?                                     | Waage, Mikroskop                          |
+| Wie?                       | Welche Prüfmethode?                                     | Enprüfung, nach jedem Produktionsschritt  |
+| Wann?                      | Welcher Prüfungszeitpunkt?                              | Endprüfung, nach jedem Produktionsschritt |
+| Durch wen?                 | Wer prüft?                                              | ausführender Mitarbeiter, externe Prüfer  |
+| Wo?                        | Welcher Prüfungsort?                                    | Werkbank, Labor                           |
+| Verarbeitung der Prüfdaten | Was passiert mit den Daten?                             | Protokoll, Auswertung                     |
+### Prüfausführung
+- Nach den Kriterien aus der #Prüfplanung durchgeführt
+- Es werden allfällige Abweichungen der geprüften Ausführung  von den in der Prüfplanung fixierten Werten festgestellt
+- #Eingangsprüfung vs. #Zwischenprüfung vs. #Endprüfung
+#### Verarbeitung der Ergebnisse
+- Grundlage für die Verbesserung der Qualität der Produktion und Produkt
+#### Qualitätsverbesserung
+Stetige Steigerung der #Qualität
+Förderung von qualitätsorientierten Denkens

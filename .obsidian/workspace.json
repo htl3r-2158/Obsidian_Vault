@@ -13,57 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
+                "file": "Schule/SYT/GETE/Wechselstromtechnik.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "77c04b139863d2b4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 14.04.53.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "dcb4c7846ff4a9b5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 14.04.54.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1e6ea5b42d3d4786",
+            "id": "f079e6f767a7886c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/INSI/ER-Modell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9ae46b894e9dfb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flowcharts.md",
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -130,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md"
+                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md"
               }
             }
           },
@@ -202,17 +170,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "381cf24a01e079d9",
+  "active": "f079e6f767a7886c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-11 14.04.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-11 14.04.54.excalidraw.md",
-    "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
-    "Schule/INSI/ER-Modell.md",
-    "Excalidraw/Drawing 2024-09-11 13.49.51.excalidraw.md",
-    "flowcharts.md",
     "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
-    "Basics.md",
+    "OneNote",
+    "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.docx",
+    "Schule/Chemie/Atombindung.md",
     "Schule/Mathe/1 Folgen und Reihen.md",
+    "Schule/Deutsch/Kurze Zusf. in Stichworten.md",
+    "Schule/SYT/GETE/Wechselstromtechnik.md",
+    "flowcharts.md",
+    "Schule/INSI/ER-Modell.md",
+    "Excalidraw/Drawing 2024-09-12 08.15.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-12 08.33.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-12 11.43.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-12 12.14.40.excalidraw.md",
+    "Schule/INSI/Spezielle Beziehungsformen.md",
+    "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
+    "Excalidraw/Drawing 2024-09-11 14.04.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-11 14.04.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-11 13.49.51.excalidraw.md",
+    "Basics.md",
     "Schule/Mathe/Hausübungen/Laurin Wolf 07.09.2024.md",
     "Schule/Deutsch/Leserbrief & Erörterung.md",
     "Schule/Chemie/Organische Chemie.md",
@@ -221,15 +199,6 @@
     "Schule/Chemie/Teststoff 3. Test und neuer Stoff über Basen.md",
     "Schule/SYT/BS/Linux User Management.md",
     "Schule/SYT/BS/Windows-Kommandozeile.md",
-    "Schule/SYT/BS/Backups.md",
-    "Schule/SYT/BS/Linux-Bash.md",
-    "Schule/SYT/BS/Linux Befehle.md",
-    "Schule/SYT/BS/Linux Zugriffsrechte.md",
-    "Schule/SYT/BS/Klassische Kryptographie.md",
-    "Schule/ITP/Projekt Management.md",
-    "Schule/ITP/E-Mail schreiben.md",
-    "Excalidraw/Drawing 2024-09-09 15.00.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 11.13.38.excalidraw.md",
     "Schule/ITP",
     "Pasted image 20240219113416.png",
     "IMG_4080 2.jpg",
@@ -249,8 +218,6 @@
     "Unbenannt.canvas",
     "Schule/SYT/GETE/^.hihi",
     "Schule/Deutsch",
-    "Schule/SYT/GINF/HÜ",
-    "Schule/Chemie/Protokolle",
     "Unbenannt 1.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

@@ -73,3 +73,7 @@ Widerstand (R), Spule (L) Kondensator (C) bei sinusförmiger Wechselspannung
 
 ## Bsp.:
 ![[Drawing 2024-09-05 12.21.09.excalidraw]]
+## Bsp.:
+![[Drawing 2024-09-12 11.43.53.excalidraw | 1000]]
+## Bsp.:
+![[Drawing 2024-09-12 12.14.40.excalidraw |1000]]
