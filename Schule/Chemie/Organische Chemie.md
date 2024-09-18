@@ -34,4 +34,10 @@ b --- f
 b --- f
 ```
 
+## Kohlenwasserstoffe:
 
+| #Aliphaten                                    | #Aromaten                                                                                                                |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| #Alkane<br>Einfachbindung<br>(gesättigt)      | ![[Drawing 2024-09-17 11.24.00.excalidraw \| 100]]<br>#delokalisierte$\pi$-Elektronen<br>-> bilden eine #Elektronenwolke |
+| #Alkene<br>Doppelbindungen<br>(ungesättigt)   |                                                                                                                          |
+| #Alkine<br>Dreifachbindung<br>(ungesättigt^^) |                                                                                                                          |

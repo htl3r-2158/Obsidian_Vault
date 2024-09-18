@@ -105,4 +105,58 @@ $b_7 = 1000 * 0,2^6 = 0,064$
 1) $<4, 2, 1, \frac{1}{2}, \frac{1}{4}, \frac{1}{8}, \frac{1}{16}>$
 	-> $b_n = 4*(\frac{1}{2})^{n-1} = 2^{n-1}$
 	$b_{n+1} = b_n * \frac{1}{2}$
-	
+
+
+>[!info] Zur Arithmetischen Folge
+>beschreiben einen diskreten **Wachstums** und **Abnahmeprozess**
+>Es ist daher meist von Vorteil die Zählung mit **$0$** zu **beginnen**
+>
+>Termdarstellung:
+>$a_n = a_0 + n*d$ (Arithmetisch)
+>$b_n = b_0 * q$ (Geometrisch)
+>
+>Rekursive Darstellung
+>$a_n = a_1 + (n-1) * d$ (Arithmetisch)
+>$b_n = b_1 * p^{n-1}$ (Geometrisch)
+### Bsp.: 1 Zunahme
+Der Verbrauch eines Rohstoffs **steigt** pro Jahr  **um $4\%$**. Wie würde sich eine Reduktion der Steigerungsrate auf $2\%$, auf die Zeit auswirken, in der sich der Verbrauch verdoppelt.
+
+Verbrauch zu beginn … $v_0$  ($v_1$ → $1$ Jahr)   $q = 1,04$
+$v_1 = v_ * q^1$
+$v_n = v_0*q^n = 2*v_0 \ |: v_0$
+$q^n = 2 \ | ln$
+$ln(q^n) = ln(2)$
+$n*ln(q) = ln(2) \ | : ln(q)$
+$n = \frac{ln(2)}{ln(1,04)} = 17,67a$
+
+### Bsp.:2 Abnahme
+![[Drawing 2024-09-13 14.07.43.excalidraw]]
+$y_0 = 8cm$ Anfangsamplitude
+Jede Folgeamplitude ist um $10\%$ kleiner
+1) berechne $y_8$
+2) Wann erhalte ich $5\%$ von $y_0$
+
+$y_1 = y_0 * q^n$
+$y_8 = y_0 * q^n = 8cm * 0,9^8 = 3,44cm$
+$y_0 * q^n = y_0 * 0,05 \ \| : y_0$
+$0,9^n = 0,005$
+$n = 28$
+
+## Wiederholung Exponentielles Wachstum
+#exponentielles-Wachstum
+
+### Bsp. 1:
+Ein Kapital von $10$€wird $3$ Jahre lang jährlich mit $4\%$ verzinst. Berechne das Kapital nach $3a$
+→ gemoetrische Folge
+	$b_n = b_1 * q^{n-1}$
+	$b_n = b_0 * q^n$
+
+$k_n = k_0 * 1,04^n = 100 * 1,04^3 = 112,486$€
+
+### Bsp. 2:
+Bestimme das $101$  Folgeglied der geometrischen Folge
+$< 2, - \sqrt{2}, 1, - \frac{1}{\sqrt{2}}, ... >$
+
+$q = \frac{a_2}{a_1} = \frac{-\sqrt{2}}{2} = - \frac{1}{\sqrt{2}}$
+$a_n = a_1 * q^{n}$
+$a_{101} = 2 * (-\frac{1}{\sqrt{2}})^{101-1} = 2 * (- \frac{1}{\sqrt{2}})^{100} = 2*(-\frac{1}{2^{\frac{1}{2}}})^{100} = \frac{1}{2^{49}} = 1,78 * 10^{15}$

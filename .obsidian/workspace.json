@@ -8,31 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "381cf24a01e079d9",
+            "id": "f079e6f767a7886c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/SYT/GETE/Wechselstromtechnik.md",
+                "file": "Schule/Mathe/1 Folgen und Reihen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f079e6f767a7886c",
+            "id": "a3f95a3b255fc6af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-09-17 11.24.00.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
+                "file": "Schule/Mathe/1 Folgen und Reihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
+                "file": "Schule/Mathe/1 Folgen und Reihen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md"
+                "file": "Schule/Mathe/1 Folgen und Reihen.md"
               }
             }
           },
@@ -172,13 +169,22 @@
   },
   "active": "f079e6f767a7886c",
   "lastOpenFiles": [
+    "Schule/Chemie/Organische Chemie.md",
+    "Excalidraw/Drawing 2024-09-17 11.24.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-13 14.07.43.excalidraw.md",
+    "Schule/Mathe/1 Folgen und Reihen.md",
+    "Schule/Mathe/1 Folgen und Reihen.pdf",
+    "Schule/Mathe/~$Folgen und Reihen.docx",
+    "Schule/Mathe/1 Folgen und Reihen.docx",
+    "Schule/NWT/Switch vs. Router.md",
+    "Schule/SYT/GETE/Wechselstromtechnik.md",
+    "Schule/NWT/Transport Layer.md",
+    "Schule/NWT/Summenroute.md",
     "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
     "OneNote",
     "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.docx",
     "Schule/Chemie/Atombindung.md",
-    "Schule/Mathe/1 Folgen und Reihen.md",
     "Schule/Deutsch/Kurze Zusf. in Stichworten.md",
-    "Schule/SYT/GETE/Wechselstromtechnik.md",
     "flowcharts.md",
     "Schule/INSI/ER-Modell.md",
     "Excalidraw/Drawing 2024-09-12 08.15.29.excalidraw.md",
@@ -193,12 +199,7 @@
     "Basics.md",
     "Schule/Mathe/Hausübungen/Laurin Wolf 07.09.2024.md",
     "Schule/Deutsch/Leserbrief & Erörterung.md",
-    "Schule/Chemie/Organische Chemie.md",
     "Excalidraw/Drawing 2024-09-10 10.22.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-10 10.21.19.excalidraw.md",
-    "Schule/Chemie/Teststoff 3. Test und neuer Stoff über Basen.md",
-    "Schule/SYT/BS/Linux User Management.md",
-    "Schule/SYT/BS/Windows-Kommandozeile.md",
     "Schule/ITP",
     "Pasted image 20240219113416.png",
     "IMG_4080 2.jpg",
@@ -214,10 +215,7 @@
     "Pasted image 20240521114829.png",
     "Pasted image 20240521114830.png",
     "Pasted image 20240222155715.png",
-    "Schule/Mathe/Unbenannt",
     "Unbenannt.canvas",
-    "Schule/SYT/GETE/^.hihi",
-    "Schule/Deutsch",
     "Unbenannt 1.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
