@@ -160,3 +160,72 @@ $< 2, - \sqrt{2}, 1, - \frac{1}{\sqrt{2}}, ... >$
 $q = \frac{a_2}{a_1} = \frac{-\sqrt{2}}{2} = - \frac{1}{\sqrt{2}}$
 $a_n = a_1 * q^{n}$
 $a_{101} = 2 * (-\frac{1}{\sqrt{2}})^{101-1} = 2 * (- \frac{1}{\sqrt{2}})^{100} = 2*(-\frac{1}{2^{\frac{1}{2}}})^{100} = \frac{1}{2^{49}} = 1,78 * 10^{15}$
+### Bsp.: 2b
+Geg.: $a_2 = 9$   $a_5 = \frac{1}{3}$
+
+$a_n = a_1 * q^{n-1}$
+$a_5 = a_2 * q^3 = 9 * q^3 = \frac{1}{3}$
+$q = \sqrt[3]{\frac{1}{27}} = \frac{1}{3}$
+
+## Summe einer arithmetischen oder geometrischen Folge
+
+### 2.1: Die Summe $\Sigma$ einer arithmetischen Folge
+
+Mathematisch formulieren: 
+$s_n = 50* (1+100)$
+
+>[!info] Summenformel einer arithmetischen Folge
+$s_n = \frac{n}{2} * (a_1 + a_n)$
+
+#### Bsp. 1:
+Man berechne $s_{11}$ einer arithmetischen Folge wenn:
+$a_1 = 9$ und $d = 5$ ist
+
+$a_n = a_1 + (n-1) * d$ → $s_n$ einsetzen!
+
+$s_{11} = \frac{11}{2} * (9 + 59) = 374$
+
+>[!info] Summe einer Arithmetischen Folge
+>$s_n = \frac{n}{2} * (2* a_1 + (n-1) * d)$
+
+>[!note] Arithmetische Summenformel
+Ist $a_1 + a_2 + ... + a_n$ eine arithmetische Reihe von $n$ Gliedern mit der Differenz $d$, so gilt für die Summe: 
+>$s_u =\sum\limits_{i=1}^{n} a_i$
+
+Eine Reihe stellt somit eine Folge von $n$ Partialsummen dar.
+
+### 2.2 $\Sigma$ einer geometrischen Folge
+$s_n = \sum\limits_{i=1}^{n} * b * i = b_1 + b_2 + ... + b_n = b_1 + q^2 + ... b_1 * q^{n-1}$
+
+Ist $b_1+b_2 + ...$ eine geometrische Reihe von $n$ Gliedern mit dem Quotienten $q ≠1$, so gilt für die Summe $s_n$ ihrer Glieder.
+
+$s_n = b_1 * (1+q+q^2+...+q^{n-1}) =$ 
+>[!info] Geometrische Summenformel
+>$s_n = b_1 \frac{q^{n-1}}{q-1}$
+>Die Hochzahl $n$ von $q^n$ ist gleich der Anzahl der Folgeglieder
+
+### Bsp. 1:
+Eine geometrische Folge mit $b_1 = 3$ unddem Quotienten $q = 2$. Berechne die Summe der ersten $5$ Glieder
+$s_n = 3 \frac{2^5 - 1}{2-1} = 3 * \frac{2^5-1}{1} = 93$
+
+### Bsp. 2:
+Geg.: Sind die ersten Glieder einer geometrischen Folge
+$<8;\ 1.6;\ 0.32>$
+Berechne: $s_7$
+
+$q= \frac{b_2}{b_1} = \frac{1.6}{8} = \frac{1}{5} = 0.2$
+$s_n = b_1 * \frac{q^{n-1}}{q-1} => s_7 = 9.999872$
+
+
+### Bsp. 1.20:
+#### a)
+$s_n = \frac{15}{2} * (2* 4 + (15-1) * 3) = 375$
+$a_n = 46$
+#### b)
+$a_n = a_1 + (n-1) * d$ Umformen
+$a_1 =a_n -  (n-1)*d = 2$
+$s_n = \frac{19}{2} * (2* 2 + (19-1) * 5) = 893$
+#### c)
+$a_n = a_1 + (n-1) * d$ Umformen
+$d = \frac{a_n - a_1}{n-1} = 7$
+$s_n = \frac{16}{2} * (2* 2 + (16-1) * 7) = 872$
