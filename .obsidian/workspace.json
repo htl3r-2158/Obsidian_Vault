@@ -13,38 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/INSI/Relationenmodell.md",
+                "file": "Schule/Mathe/1 Folgen und Reihen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0336f037ebb30e0",
+            "id": "0942d978bce75886",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 14.02.57.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-20 13.52.30.excalidraw.md"
               }
-            }
-          },
-          {
-            "id": "cd2078b6156510ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 14.02.57.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "71f9761a313c9f31",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -114,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/INSI/Relationenmodell.md",
+                "file": "Schule/Mathe/1 Folgen und Reihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/INSI/Relationenmodell.md",
+                "file": "Schule/Mathe/1 Folgen und Reihen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/INSI/Relationenmodell.md"
+                "file": "Schule/Mathe/1 Folgen und Reihen.md"
               }
             }
           }
@@ -188,14 +170,16 @@
   },
   "active": "f079e6f767a7886c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-18 14.02.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-20 13.52.30.excalidraw.md",
+    "Schule/Mathe/1 Folgen und Reihen.md",
+    "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
     "Schule/INSI/Relationenmodell.md",
+    "Excalidraw/Drawing 2024-09-18 14.02.57.excalidraw.md",
     "Schule/INSI/Is-A-Beziehung.md",
     "Schule/Chemie/Chemische Industrie.md",
     "Schule/INSI/Spezielle Beziehungsformen.md",
     "Excalidraw/Drawing 2024-09-17 11.24.00.excalidraw.md",
     "Schule/ITP/Was ist schiefgelaufen bei BER.md",
-    "Schule/Mathe/1 Folgen und Reihen.md",
     "Tutorials/Basics.md",
     "Tutorials",
     "Schule/Images/Pasted image 20240219113416.png",
@@ -211,7 +195,6 @@
     "Schule/SYT/GETE/Wechselstromtechnik.md",
     "Schule/NWT/Transport Layer.md",
     "Schule/NWT/Summenroute.md",
-    "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
     "OneNote",
     "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.docx",
     "Schule/Chemie/Atombindung.md",
@@ -223,7 +206,6 @@
     "Excalidraw/Drawing 2024-09-12 11.43.53.excalidraw.md",
     "Excalidraw/Drawing 2024-09-12 12.14.40.excalidraw.md",
     "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
-    "Excalidraw/Drawing 2024-09-11 14.04.54.excalidraw.md",
     "Schule/ITP",
     "large_en.txt",
     "Schule/INSI",
