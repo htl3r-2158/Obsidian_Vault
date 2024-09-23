@@ -117,7 +117,7 @@ $b_7 = 1000 * 0,2^6 = 0,064$
 >
 >Rekursive Darstellung
 >$a_n = a_1 + (n-1) * d$ (Arithmetisch)
->$b_n = b_1 * p^{n-1}$ (Geometrisch)
+>$b_n = b_1 * q^{n-1}$ (Geometrisch)
 ### Bsp.: 1 Zunahme
 Der Verbrauch eines Rohstoffs **steigt** pro Jahr  **um $4\%$**. Wie würde sich eine Reduktion der Steigerungsrate auf $2\%$, auf die Zeit auswirken, in der sich der Verbrauch verdoppelt.
 
@@ -201,7 +201,7 @@ Ist $b_1+b_2 + ...$ eine geometrische Reihe von $n$ Gliedern mit dem Quotienten 
 
 $s_n = b_1 * (1+q+q^2+...+q^{n-1}) =$ 
 >[!info] Geometrische Summenformel
->$s_n = b_1 \frac{q^{n-1}}{q-1}$
+>$s_n = b_1 \frac{q^{n}-1}{q-1}$
 >Die Hochzahl $n$ von $q^n$ ist gleich der Anzahl der Folgeglieder
 
 ### Bsp. 1:

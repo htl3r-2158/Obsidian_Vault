@@ -1,3 +1,4 @@
+#Linux 
 #Linux-Zugriffsrechte = #Schutzcodes = #Permission
 
 ## Unix Zugriffsrechte (Permissions)

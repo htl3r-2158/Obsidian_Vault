@@ -1,3 +1,4 @@
+#Windows
 ## Warum CMD
 - man ist häufig schneller
 >[!info]- Beispiel
