@@ -1,4 +1,4 @@
-#Folgen #Zahlenfolge
+#Folgen #Zahlenfolge #Reihen 
 
 ## Was ist eine Zahlenfolge (kurz Folge)?
 
