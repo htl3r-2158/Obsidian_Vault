@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/INSI/Grundlagen zu Datenbanken.md",
+                "file": "Schule/INSI/Microsoft Access.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7f3a7d65fcd463f9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-26 08.25.33.excalidraw.md"
               }
             }
           },
@@ -79,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -96,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/INSI/Grundlagen zu Datenbanken.md",
+                "file": "Schule/INSI/Microsoft Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/INSI/Grundlagen zu Datenbanken.md",
+                "file": "Schule/INSI/Microsoft Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/INSI/Grundlagen zu Datenbanken.md"
+                "file": "Schule/INSI/Microsoft Access.md"
               }
             }
           }
@@ -170,8 +179,10 @@
   },
   "active": "4d0f88abf7994cda",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-25 13.57.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-26 08.25.33.excalidraw.md",
+    "Schule/INSI/Microsoft Access.md",
     "Schule/INSI/Grundlagen zu Datenbanken.md",
+    "Excalidraw/Drawing 2024-09-25 13.57.04.excalidraw.md",
     "Schule/INSI/Datenbankmodelle.md",
     "Schule/INSI/Relationenmodell.md",
     "Schule/ITP/Ideenmanagement.md",
@@ -195,8 +206,6 @@
     "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
     "Excalidraw/Drawing 2024-09-18 14.02.57.excalidraw.md",
     "Schule/INSI/Is-A-Beziehung.md",
-    "Schule/Chemie/Chemische Industrie.md",
-    "Schule/INSI/Spezielle Beziehungsformen.md",
     "Tutorials",
     "Schule/Images/Pasted image 20240219113416.png",
     "Schule/Images/IMG_4080 2.jpg",
