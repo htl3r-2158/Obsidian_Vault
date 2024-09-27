@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Mathe/1 Folgen und Reihen.md",
+                "file": "Schule/SYT/GETE/Wechselstromtechnik.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/Mathe/1 Folgen und Reihen.md",
+                "file": "Schule/SYT/GETE/Wechselstromtechnik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/Mathe/1 Folgen und Reihen.md",
+                "file": "Schule/SYT/GETE/Wechselstromtechnik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/Mathe/1 Folgen und Reihen.md"
+                "file": "Schule/SYT/GETE/Wechselstromtechnik.md"
               }
             }
           }
@@ -170,6 +171,7 @@
   },
   "active": "bd4609637ff825ef",
   "lastOpenFiles": [
+    "Schule/Mathe/1 Folgen und Reihen.md",
     "Schule/Mathe/Finanzmathematik.md",
     "Schule/Mathe/Üben Folgen.md",
     "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
@@ -185,7 +187,6 @@
     "Schule/INSI/Relationenmodell.md",
     "Schule/ITP/Ideenmanagement.md",
     "Schule/ITP/Projekte.md",
-    "Schule/Mathe/1 Folgen und Reihen.md",
     "Schule/Mathe/1 Folgen und Reihen.pdf",
     "Excalidraw/Drawing 2024-09-20 13.52.30.excalidraw.md",
     "Excalidraw/Drawing 2024-09-24 11.01.25.excalidraw.md",

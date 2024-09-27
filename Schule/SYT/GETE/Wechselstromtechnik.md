@@ -1,3 +1,4 @@
+
 ## Kenngrößen
 #Kenngrößen
 ![[Drawing 2024-05-06 08.12.13.excalidraw | 1000]]
@@ -77,3 +78,16 @@ Widerstand (R), Spule (L) Kondensator (C) bei sinusförmiger Wechselspannung
 ![[Drawing 2024-09-12 11.43.53.excalidraw | 1000]]
 ## Bsp.:
 ![[Drawing 2024-09-12 12.14.40.excalidraw |1000]]
+
+## Wie es schneller geht:
+$Z_R = R$
+$Z_C =  \frac{1}{j*\omega*C}$
+$Z_{ges} = R + \frac{1}{j*\omega*C}$
+$I = U_q * \frac{1}{R+\frac{1}{j*\omega*C}} * \frac{j*\omega*C}{j*\omega*C} = U_q * \frac{j*\omega*C}{j*\omega*R*C+1}$
+$U_C = I * Z_C = U_q * \frac{j*\omega*C}{1+j*\omega*R*C} * \frac{1}{j*\omega*C} = U_q * \frac{1}{1+j*\omega*R*C}$
+$|U_c| = U_q * \frac{1}{\sqrt{1+(\omega * R*C)^2}}$
+
+$|Z_C| = \frac{1}{\omega*C}= R \ | \omega \ :R$
+$2 * \pi * f = \omega = \frac{RC} \ | : 2* \pi$
+$f_g = \frac{1}{2* \pi * R * C}$   -> Grenzfrequenz
+
