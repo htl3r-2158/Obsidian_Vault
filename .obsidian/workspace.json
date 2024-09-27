@@ -11,35 +11,26 @@
             "id": "4d0f88abf7994cda",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-26 12.01.06.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "bd4609637ff825ef",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/INSI/Microsoft Access.md",
+                "file": "Schule/Mathe/1 Folgen und Reihen.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f3a7d65fcd463f9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-26 08.25.33.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "dc798128e2e569df",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-25 13.57.04.excalidraw.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/INSI/Microsoft Access.md",
+                "file": "Schule/Mathe/1 Folgen und Reihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/INSI/Microsoft Access.md",
+                "file": "Schule/Mathe/1 Folgen und Reihen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/INSI/Microsoft Access.md"
+                "file": "Schule/Mathe/1 Folgen und Reihen.md"
               }
             }
           }
@@ -177,22 +168,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d0f88abf7994cda",
+  "active": "bd4609637ff825ef",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-26 08.25.33.excalidraw.md",
+    "Schule/Mathe/Finanzmathematik.md",
+    "Schule/Mathe/Üben Folgen.md",
+    "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
+    "Excalidraw/Drawing 2024-09-26 12.01.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-26 12.07.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-23 13.41.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-26 11.59.04.excalidraw.md",
     "Schule/INSI/Microsoft Access.md",
+    "Excalidraw/Drawing 2024-09-26 08.25.33.excalidraw.md",
     "Schule/INSI/Grundlagen zu Datenbanken.md",
     "Excalidraw/Drawing 2024-09-25 13.57.04.excalidraw.md",
     "Schule/INSI/Datenbankmodelle.md",
     "Schule/INSI/Relationenmodell.md",
     "Schule/ITP/Ideenmanagement.md",
     "Schule/ITP/Projekte.md",
-    "Schule/Mathe/Üben Folgen.md",
-    "Schule/Mathe/Finanzmathematik.md",
     "Schule/Mathe/1 Folgen und Reihen.md",
     "Schule/Mathe/1 Folgen und Reihen.pdf",
     "Excalidraw/Drawing 2024-09-20 13.52.30.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-23 13.41.06.excalidraw.md",
     "Excalidraw/Drawing 2024-09-24 11.01.25.excalidraw.md",
     "Schule/Chemie/Organische Chemie.md",
     "Schule/SYT/BS/Linux Links.md",
@@ -202,10 +197,6 @@
     "Schule/SYT/BS/Linux-Bash.md",
     "Schule/SYT/BS/Linux Zugriffsrechte.md",
     "Schule/SYT/BS/Linux User Management.md",
-    "Schule/SYT/BS/Klassische Kryptographie.md",
-    "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
-    "Excalidraw/Drawing 2024-09-18 14.02.57.excalidraw.md",
-    "Schule/INSI/Is-A-Beziehung.md",
     "Tutorials",
     "Schule/Images/Pasted image 20240219113416.png",
     "Schule/Images/IMG_4080 2.jpg",

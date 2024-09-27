@@ -88,16 +88,16 @@ Entweder #Vollprüfung oder #Stichprobenprüfung (aufgrund von statistischen Ver
 Stetige Steigerung der #Qualität
 Förderung von qualitätsorientierten Denkens
 
-### Werkzeuge des Qualitätsmangagements
-| Problem verstehen und bescreiben | Erkennen und verstehen          |
-| -------------------------------- | ------------------------------- |
-| Analyse                          | Problem untersuchen             |
-| Suche nach einer Lösung          | Beste Lösung auswählen          |
-| Realisierung und Bewertung       | Umsetzung                       |
-| Einführung Lösung                | Wirksame lösung wird eingeführt |
-|                                  |                                 |
-|                                  |                                 |
-| <br>                             |                                 |
+### Werkzeuge des Qualitätsmanagements
+| Problem verstehen und beschreiben | Erkennen und verstehen          |
+| --------------------------------- | ------------------------------- |
+| Analyse                           | Problem untersuchen             |
+| Suche nach einer Lösung           | Beste Lösung auswählen          |
+| Realisierung und Bewertung        | Umsetzung                       |
+| Einführung Lösung                 | Wirksame lösung wird eingeführt |
+|                                   |                                 |
+|                                   |                                 |
+| <br>                              |                                 |
 ### Hohe Korrelation:
 
 **Beispiel:** Die Größe eines Menschen und die Schuhgröße
@@ -106,3 +106,17 @@ Förderung von qualitätsorientierten Denkens
 ### Geringe Korrelation:
 **Beispiel:** Die Anzahl der Tassen Kaffee, die jemand trinkt, und die Anzahl der Filme, die diese Person im Monat schaut.
 **Beispiel:** Die Anzahl der Bücher in einem Haushalt und das Wetter an einem bestimmten Tag.
+
+## Ishikawa-Diagramm (Ursachen-Wirkungs-Diagramm)
+![[Drawing 2024-09-26 11.59.04.excalidraw]]
+
+
+![[Drawing 2024-09-26 12.01.06.excalidraw | 1000]]
+
+## Werkzeuge
+- Strichliste
+- Verlaufsdiagramm
+- Korrelationsanalyse
+- Korrelationsdiagramm
+- Pareto-Diagramm
+- Matrixdiagramm
