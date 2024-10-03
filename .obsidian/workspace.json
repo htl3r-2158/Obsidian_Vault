@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Chemie/Organische Chemie.md",
+                "file": "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/Chemie/Organische Chemie.md",
+                "file": "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/Chemie/Organische Chemie.md",
+                "file": "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/Chemie/Organische Chemie.md"
+                "file": "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md"
               }
             }
           }
@@ -180,10 +180,11 @@
   },
   "active": "bd4609637ff825ef",
   "lastOpenFiles": [
+    "Schule/INSI/Abfragen.md",
+    "Schule/Chemie/Organische Chemie.md",
     "Schule/Images/IMG_4939.jpg",
     "Schule/Images/IMG_4080 2.jpg",
     "Excalidraw/Drawing 2024-10-01 11.16.33.excalidraw.md",
-    "Schule/Chemie/Organische Chemie.md",
     "Excalidraw/Drawing 2024-09-26 12.01.06.excalidraw.md",
     "Schule/Images/ps2F96.tmp",
     "Schule/Images/Pasted image 20240430130240.png",
