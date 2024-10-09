@@ -104,3 +104,6 @@ Carbonsäure > Ester > Aldehyde > Ketone > Alkohole
 Bsp. Alkane
 ![[Drawing 2024-10-01 11.16.33.excalidraw]]
 ![[IMG_4939.jpg]]
+
+## Beispiele
+![[Drawing 2024-10-08 11.01.48.excalidraw]]

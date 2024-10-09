@@ -20,3 +20,17 @@
 8) $K_0 = \frac{10000\$}{(1+0.075*0.03)^4} = 9148.43\$$
 #### Verdopplungszeit beim Zinssatz
 9) $K_n = 2* K_0 → 2 = q^n → n = \frac{ln(2)}{ln(1.04)} = 17.67$
+
+![[Drawing 2024-10-09 08.33.39.excalidraw]]
+
+## Rentenrechnung
+>Rente -> wiederkehrende Zahlung -> umrechnen in eine Einmalzahlung
+
+> Rentenperiode -> $1a$ (andere Ratenzahlungne möglich)
+
+### Nachschüssige $R$
+$E_{nach} = R* \frac{q^n - 1}{q -1}$
+$B_{nach} = \frac{E_{nach}}{q^n} = R * \frac{q^n -1}{q-1}/\frac{1}{q^n}$
+## Vorschüssige $R$
+$E_{vor} = R*q * \frac{q^n-1}{q-1} =$
+$B_{vor} = \frac{E_{vor}}{q^n}$
