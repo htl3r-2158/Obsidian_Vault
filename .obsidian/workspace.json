@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Mathe/Finanzmathematik.md",
+                "file": "Schule/NWT/ACLs Dossier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "237be7619b32882d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schule/INSI/Relationenmodell.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/Mathe/Finanzmathematik.md",
+                "file": "Schule/NWT/ACLs Dossier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/Mathe/Finanzmathematik.md",
+                "file": "Schule/NWT/ACLs Dossier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/Mathe/Finanzmathematik.md"
+                "file": "Schule/NWT/ACLs Dossier.md"
               }
             }
           }
@@ -169,6 +182,18 @@
   },
   "active": "bd4609637ff825ef",
   "lastOpenFiles": [
+    "Pasted image 20241012114511.png",
+    "Pasted image 20241012114349.png",
+    "Pasted image 20241012114159.png",
+    "Schule/Mathe/Finanzmathematik.md",
+    "Schule/NWT/ACLs Dossier.md",
+    "Schule/INSI/Relationenmodell.md",
+    "Schule/INSI/Grundlagen zu Datenbanken.md",
+    "Schule/INSI/Datenbankmodelle.md",
+    "Schule/INSI/Microsoft Access.md",
+    "Schule/INSI/Abfragen.md",
+    "Schule/INSI/Is-A-Beziehung.md",
+    "Schule/ITP/Kopfstandtechnik.md",
     "Schule/Mathe/Üben Folgen.md",
     "Schule/Chemie/Organische Chemie.md",
     "Excalidraw/Drawing 2024-10-09 08.33.39.excalidraw.md",
@@ -179,26 +204,16 @@
     "Excalidraw/Drawing 2024-10-08 14.36.15.excalidraw.md",
     "Excalidraw/Drawing 2024-10-08 14.31.04.excalidraw.md",
     "Excalidraw/Drawing 2024-10-08 15.33.58.excalidraw.md",
-    "Schule/ITP/Kopfstandtechnik.md",
     "Schule/SYT/BS/Linux Scripts.md",
     "Schule/SYT/BS/Linux Links.md",
     "Schule/SYT/GETE/Operationsverstärker.md",
     "Schule/SEW/Traversieren mit einem Iteratro.md",
     "Schule/SEW/Exception.md",
     "Schule/SYT/GETE/Wechselstromtechnik.md",
-    "Excalidraw/Drawing 2024-09-12 12.14.40.excalidraw.md",
-    "Schule/INSI/ER-Modell.md",
-    "Schule/Mathe/Üben für die 3. Schularbeit.md",
-    "Excalidraw/Drawing 2024-09-05 12.12.42.excalidraw.md",
-    "Schule/INSI/Beziehungen im relationalen Datenbankmodell.md",
-    "Schule/INSI/Abfragen.md",
     "Schule/Images/IMG_4939.jpg",
     "Schule/Images/IMG_4080 2.jpg",
-    "Excalidraw/Drawing 2024-10-01 11.16.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-26 12.01.06.excalidraw.md",
     "Schule/Images/ps2F96.tmp",
     "Schule/Images/Pasted image 20240430130240.png",
-    "Schule/Mathe/1 Folgen und Reihen.md",
     "Schule/Mathe/1 Folgen und Reihen.pdf",
     "Tutorials",
     "Schule/Images/Pasted image 20240219113416.png",
@@ -213,8 +228,6 @@
     "Pasted image 20240521114827.png",
     "Pasted image 20240521114828.png",
     "Pasted image 20240521114828 1.png",
-    "Pasted image 20240521114829.png",
-    "Pasted image 20240521114830.png",
     "Unbenannt.canvas",
     "Unbenannt 1.canvas",
     "Untitled 2.canvas",
