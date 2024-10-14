@@ -1,0 +1,5 @@
+| Spieler 1     | Spieler 2        | Spieler 3         | Spieler 4       | Erweiterungen                                                                                                |     |
+| ------------- | ---------------- | ----------------- | --------------- | ------------------------------------------------------------------------------------------------------------ | --- |
+| Barbara: 433  | Laurin:  524     |                   |                 | 2\*Grundspiel, Fluss, Wirtshäuser&Kathedralen, Händler&Baumeister, Fluggeräte, Fähren, Goldminen, Kornkreise |     |
+| Lea: 1. Platz | Laurin: 2. Platz | Barbara: 3. Platz | Hannes: 4.Platz | 2\*Grundspiel, Fluss, Wirtshäuser&Kathedralen, Händler&Baumeister, Fluggeräte, Fähren, Goldminen, Kornkreise |     |
+|               |                  |                   |                 |                                                                                                              |     |

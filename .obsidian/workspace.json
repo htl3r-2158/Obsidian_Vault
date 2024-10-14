@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "55eeb9d84c307d76",
+        "id": "a5b0126443b4d049",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4609637ff825ef",
+            "id": "fbf990eeaf9558dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schule/NWT/ACLs Dossier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "237be7619b32882d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schule/INSI/Relationenmodell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60391c8f0fbb0a9a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-09 08.33.39.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schule/NWT/ACLs Dossier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/NWT/ACLs Dossier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Schule/NWT/ACLs Dossier.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -180,14 +149,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd4609637ff825ef",
+  "active": "fbf990eeaf9558dd",
   "lastOpenFiles": [
-    "Pasted image 20241012114511.png",
-    "Pasted image 20241012114349.png",
-    "Pasted image 20241012114159.png",
-    "Schule/Mathe/Finanzmathematik.md",
-    "Schule/NWT/ACLs Dossier.md",
+    "Carcassonne/Solo Gameplay.md",
+    "Carcassonne/Gamesheet.md",
+    "Carcassonne/CarcBasis_SoloRegel_10_D.pdf",
+    "Excalidraw/Drawing 2024-10-09 08.33.39.excalidraw.md",
+    "Carcassonne/CarcBasis_SoloRegel_10_D.pdf.crdownload",
+    "Schule/Images/Pasted image 20241012114349.png",
+    "Schule/Images/Pasted image 20241012114511.png",
+    "Carcassonne/IMG_4988.jpg",
+    "Schule/SYT/BS/Linux Scripts.md",
+    "Carcassonne/IMG_4987.jpg",
+    "Schule/NWT/ACLs-Dossier.md",
+    "Carcassonne",
+    "Schule/NWT/ACLs - Access Control Lists.md",
+    "Schule/NWT/ACLs-Dossier.pdf",
     "Schule/INSI/Relationenmodell.md",
+    "Schule/Images/Pasted image 20241012114159.png",
+    "Schule/Mathe/Finanzmathematik.md",
     "Schule/INSI/Grundlagen zu Datenbanken.md",
     "Schule/INSI/Datenbankmodelle.md",
     "Schule/INSI/Microsoft Access.md",
@@ -196,20 +176,15 @@
     "Schule/ITP/Kopfstandtechnik.md",
     "Schule/Mathe/Üben Folgen.md",
     "Schule/Chemie/Organische Chemie.md",
-    "Excalidraw/Drawing 2024-10-09 08.33.39.excalidraw.md",
     "Excalidraw/Drawing 2024-10-08 11.01.48.excalidraw.md",
     "Excalidraw/Drawing 2024-10-04 14.03.53.excalidraw.md",
     "Excalidraw/Drawing 2024-10-07 14.07.01.excalidraw.md",
-    "Schule/NWT/ACLs - Access Control Lists.md",
     "Excalidraw/Drawing 2024-10-08 14.36.15.excalidraw.md",
     "Excalidraw/Drawing 2024-10-08 14.31.04.excalidraw.md",
     "Excalidraw/Drawing 2024-10-08 15.33.58.excalidraw.md",
-    "Schule/SYT/BS/Linux Scripts.md",
     "Schule/SYT/BS/Linux Links.md",
     "Schule/SYT/GETE/Operationsverstärker.md",
     "Schule/SEW/Traversieren mit einem Iteratro.md",
-    "Schule/SEW/Exception.md",
-    "Schule/SYT/GETE/Wechselstromtechnik.md",
     "Schule/Images/IMG_4939.jpg",
     "Schule/Images/IMG_4080 2.jpg",
     "Schule/Images/ps2F96.tmp",
@@ -220,14 +195,7 @@
     "Schule/Images",
     "Schule/Mathe/~$Folgen und Reihen.docx",
     "Schule/Mathe/1 Folgen und Reihen.docx",
-    "OneNote",
-    "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.docx",
-    "Schule/ITP",
-    "large_en.txt",
     "Pasted image 20240521114826.png",
-    "Pasted image 20240521114827.png",
-    "Pasted image 20240521114828.png",
-    "Pasted image 20240521114828 1.png",
     "Unbenannt.canvas",
     "Unbenannt 1.canvas",
     "Untitled 2.canvas",
