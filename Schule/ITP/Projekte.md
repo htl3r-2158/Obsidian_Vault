@@ -4,17 +4,17 @@ Größe: Großprojekte, kleine Projekte
 
 Forschungs- und Entwicklungsprojekte
 
-#Investitionsprojekte
+#Investitionsprojekt e
 - Startup
 - Bauprojekte
 - Film
 - Bildungsprojekte
 - Software
-#Organisationsprojekte
+#Organisationsprojekt e
 - Firmenzusammenlegung
 - Aufstellung von Firmen Hierarchien
 
-#Veranstaltungen
+#Veranstaltung en
 - Festivals
 
 ## #Projektablauf
@@ -38,7 +38,7 @@ Forschungs- und Entwicklungsprojekte
 - #Kostenplanung
 - #Risikomanagement
 - Zeiteinteilung
-	- #Meilensteine
+	- #Meilenstein e
 - Ziele
 - Projektorganisation festlegen
 - #Kapitalbeschaffung

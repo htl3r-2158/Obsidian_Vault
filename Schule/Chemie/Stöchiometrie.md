@@ -28,5 +28,5 @@ $M_{C_21 H_30 O_2} = 315 g / mol$ Tetrahyotrocaninabinol (THC)
 Teststoff:  chem. Reaktionen
 	#Energetik
 	#Spontanität
-	#Reaktionsgleichungen
+	#Reaktionsgleichung en
 	#Stöchimetrie bis ==inklusive== heute

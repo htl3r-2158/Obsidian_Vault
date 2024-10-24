@@ -30,6 +30,6 @@ Exception & Error --> Throwable
 ```
 #Throwable Superklasse aller Fehlerklassen
 #Error Superklasse aller Exceptions die mit verbindung der Java-Virtual-Machine auftreten
-#Exzeption `Exceptions`, die durch Ihr Programm behandelt werden können, werden von der Klasse `Exception` abgeleitet
+#Exception `Exceptions`, die durch Ihr Programm behandelt werden können, werden von der Klasse `Exception` abgeleitet
 #RuntimeException Treten aufgrund eines Programmierfehlers ein.
 #Andere Diese Ausnahmen treten durch nicht kontrollierbare Situationen ein (z. B. das Öffnen einer Datei, die nicht existiert)

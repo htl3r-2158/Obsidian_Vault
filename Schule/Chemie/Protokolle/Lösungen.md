@@ -1,5 +1,5 @@
 #Chemie-Protokoll 
-#homogenes Gemisch aus mind. 2 Komponenten
+#homogen es Gemisch aus mind. 2 Komponenten
 $Lösung = Lösungsmittel + Gelöster Stoff$
 ## Sättigung
 * ungesättigt LM kann noch zu lösenden Stoff aufnehmen

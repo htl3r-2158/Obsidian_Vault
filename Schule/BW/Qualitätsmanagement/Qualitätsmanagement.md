@@ -41,7 +41,7 @@ Diese Bandbreite wird Toleranz genannt.
 - #Fehlerverhütungkosten für die vorbeugende Fehlervermeidung. Dazu gehören Qualitätsplanung, Lieferantenbeurteilung, Prüfplanung und Mitarbeiterschulung
 - #Prüfkosten der laufenden Kontrolle der Qualität in der Fertigung. Sie umfassen Wareneingangsprüfung, Fertigungszwischenprüfung, Endprüfung, Laboruntersuchungen und Prüfmittel
 
-#Qualitätskosten sind abhängig vom #Qualitätsniveau im Unternehmen.
+#Qualitätskost en sind abhängig vom #Qualitätsniveau im Unternehmen.
 ## Bereiche des Qualitätsmanagement
 ```mermaid
 graph TD

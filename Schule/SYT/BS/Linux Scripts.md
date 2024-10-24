@@ -84,7 +84,21 @@ find [Verzeichnis] name *.txt
 -print0 | xargs -0 # Löscht etwaige Steuerzeichen
 ```
 
-## Thread
+
+
+# Prozess
+#Process: Gerade ausgeführtes Programm
+```bash
+sudo systemctl 
+-              start
+-              stop
+-              restart, reload
+-              disable         # Ob beim Boot gestartet
+-              enable
+-              status
+```
+
+### Thread
 
 #Thread: Teil eines Prozesses
 

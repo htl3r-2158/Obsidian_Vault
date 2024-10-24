@@ -1,5 +1,5 @@
 #Linux 
-#Linux-Zugriffsrechte = #Schutzcodes = #Permission
+#Linux-Zugriffsrechte= #Schutzcode s = #Permission
 
 ## Unix Zugriffsrechte (Permissions)
 * Standard for all  UNIX-Systems (i.e. also for Linux)

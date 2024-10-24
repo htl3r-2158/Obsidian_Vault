@@ -42,7 +42,7 @@ Betrieb((Betrieb))
 ---
 ### Erwerbswirtschaftliche und Gemeinwirtschaftliche Betriebe
 - #Erwerbswirtschaftliche Betriebe bieten Waren und Dienstleistungen am freien Markt an. Preise durch Angebot und Nachfrage. Zielsetzung z. B. möglichst hoher Gewinne
-- #Gemeinwirtschaftliche Betriebe arbeiten ==nicht gewinnorientiert== und sind meist in Form von Vereinen organisiert. Mitglieder arbeiten meist ehrenamtlich. Zielsetzung ist die Verbesserung / Erfüllung von sozialen Aufgaben.
+- #Gemeinwirtschaftlich e Betriebe arbeiten ==nicht gewinnorientiert== und sind meist in Form von Vereinen organisiert. Mitglieder arbeiten meist ehrenamtlich. Zielsetzung ist die Verbesserung / Erfüllung von sozialen Aufgaben.
 #### Betriebszweck
 ##### Betriebswirtschaftliche Betriebe:
 - maximaler Gewinn
@@ -177,15 +177,15 @@ Folgende Informationen sind im #Firmenbuch ersichtlich:
 	 - #Einnahmen-Ausgabenrechnung: >700.000€ -> Einkommenssteuer
 	 - doppelte Buchhaltung: zwei Jahre >700.000€ oder einmalig über 1. Mio. €
 ---
-### #Personengesellschaften
+### #Personengesellschaft en
 - Mindestens 2 Personen
 - Vorteil (gegenüber #Einzelunternehmen )
 	- Teilung von Aufgaben, Pflichten und Risiken
-- Oft #Einzelunternehmen  --> #Personengesellschaften weil neuer Partner mehr Kapital
-- Gründer von #Personengesellschaften sind auch Chefs.
-- #Personengesellschaften  häufig Name der Gründer
+- Oft #Einzelunternehmen --> #Personengesellschaft en weil neuer Partner mehr Kapital
+- Gründer von #Personengesellschaft en sind auch Chefs.
+- #Personengesellschaft en häufig Name der Gründer
 ---
-### #Offene-Gesellschaften
+### #Offene-Gesellschaft en
 
 * Gesellschafter haften solidarisch (jeder einzelne muss notfalls alleine alle Schulden annehmen)
 * #Firmenbuch
@@ -220,23 +220,23 @@ Folgende Informationen sind im #Firmenbuch ersichtlich:
 * Nachteile
 	* Alle haften persönlich solidarisch unbeschränkt für das ganze Unternehmen
 	* Konflikte bei Entscheidungen
-### #Kommanditgeselschaften
-* Ähnlich wie #Offene-Gesellschaften aber:
+### #Kommanditgeselschaft en
+* Ähnlich wie #Offene-Gesellschaft en aber:
 	* Komplementäre
 		* Haften unbeschränkt solidarisch und privat
 	* Kommanditisten
 		* Haften nur mit ihrer Einlage
 * #Haftung
-	Wie bei der #Offene-Gesellschaften 
+	Wie bei der #Offene-Gesellschaft en
 * #Buchführung 
-	Wie bei der #Offene-Gesellschaften 
+	Wie bei der #Offene-Gesellschaft en
 * Vorteile
 	* einfache und kostengünstige Gründung
 	* Kommanditistinnen können sich beteiligen ohne Risiko einer vollen Haftung
 * Nachteile
 	* Jeder Komplementär haftet unbeschränkt
 	* mögliche Konflikte, wenn Kommanditisten sich nicht in die Unternehmensführung eingebunden fühlen
-### #Kapitalgesellschaften
+### #Kapitalgesellschaft en
 ### #GmBH
 ![[Drawing 2024-02-16 11.10.54.excalidraw]]
 * Stammkapital: min. 35.000€
@@ -246,7 +246,7 @@ Folgende Informationen sind im #Firmenbuch ersichtlich:
 * #Gewinnverteilung 
 	* Beschluss der Generalversammlung: beschließt ob der Gewinn an die Gesellschafter/innen ausgeschüttet wird oder zur Erhöhung des Eigenkapitals im Unternehmen bleibt
 	* Gewinnausschüttung: Erfolgt gemäß dem jeweiligen Anteil am Stammkapital
-* #Steuern 
+* #Steuer n
 	* #Körperschaftssteuer muss vom Gewinn 25% #Körperschaftssteuer zahlen. Mindest-Körperschaftssteuer beträgt 5% des Mindeststammkapitals
 	* #Kapitalertragssteuer: die Gesellschafter/innen müssen von den ausgeschütteten Gewinnanteilen 27,5% #Kapitalertragssteuer 
 * #Buchführung :

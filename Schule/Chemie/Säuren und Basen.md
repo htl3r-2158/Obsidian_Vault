@@ -1,4 +1,4 @@
-#Säuren und #Basen
+#Säure n und #Base n
 * Säuren: Proton-Donatoren (=Spender)       Protonen: $H^+$
 	* $HA$    $⇄ H^+$  $+$ $A^-$ --> #Säure-Base-Paar
 	* Säure  Proton   Säureanion = konjugierte Base

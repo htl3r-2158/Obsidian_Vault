@@ -27,7 +27,7 @@ $G$ … #Gibbsenergie (freie #Enthalpie) \[$\frac{J}{mol}$]
 #Gibbs-Helmholtz-Gleichung: $\Delta G = \Delta H - T * \Delta S$
 
 1. #exotherm $H↓ und \ S↑$
-2. #endothermt $H↑ und\ S↓$
+2. #endotherm $H↑ und\ S↓$
 3. exotherm $H↓ und S↓$ oder endotherm $H↑ und\ S↑ \ →$ ==berechnen!==
 Bsp.: $C + O_2 → CO_2$  #exotherm $H↓$
 	Feststoff → Gas $S↑$ exergon (freiwillig)
@@ -36,7 +36,7 @@ Bsp:
 ![[Drawing 2024-02-15 09.15.05.excalidraw]]
 ## Reaktionsgleichungen:
 #Reaktion: 2 Teilchen prallen aufeinander --> mit genügend Energie (mind. $E_A$)
-#Edukte --> #Produkte
+#Edukt e --> #Produkt e
 reversibel ⇄ Rückreaktion: bei merkbarer Zersetzung
 
 >Gleichung: gleiche Anzahl an Atomen eines Elements auf beiden Seiten der Reaktionsgleichung

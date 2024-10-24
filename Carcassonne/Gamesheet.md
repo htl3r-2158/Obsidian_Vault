@@ -3,3 +3,4 @@
 | Barbara: 433  | Laurin:  524     |                   |                 | 2\*Grundspiel, Fluss, Wirtshäuser&Kathedralen, 2\*Händler&Baumeister, Fluggeräte, Fähren, Goldminen, Kornkreise | 13/10/24       |
 | Lea: 1. Platz | Laurin: 2. Platz | Barbara: 3. Platz | Hannes: 4.Platz | 2\*Grundspiel, Fluss, Wirtshäuser&Kathedralen, 2\*Händler&Baumeister, Fluggeräte, Fähren, Goldminen, Kornkreise | 13/10/24       |
 | Barbara: 328  | Laurin: 358      |                   |                 | Grundspiel, Fluss, Wirtshäuser&Kathedralen, 2\*Händler&Baumeister, Fluggeräte, Fähren, Depeschen                | 18/10/24 23:24 |
+| Lea: 164      | Barbara: 227     | Laurin: 183       |                 | Grundspiel, Fluss, Wirtshäuser&Kathedralen, Händler&Baumeister, Fluggeräte, Fähren                              |                |

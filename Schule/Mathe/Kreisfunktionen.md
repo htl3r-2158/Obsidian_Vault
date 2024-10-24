@@ -1,4 +1,4 @@
-#Kreisfunktionen
+#Kreisfunktion en
 Wiederholung aus der #Trigonemetrie:
 	$sin_\alpha = \frac{GK}{H}$
 	$cos_\alpha = \frac{AK}{H}$

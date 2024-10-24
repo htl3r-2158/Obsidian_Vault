@@ -1,4 +1,4 @@
-#Imaginäre-Zahlen
+#Imaginäre-Zahl en
 # Polarkoordinaten
 ![[Drawing 2024-05-02 13.14.06.excalidraw]]
 

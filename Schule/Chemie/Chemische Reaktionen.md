@@ -1,4 +1,4 @@
-#Edukte --> #Produkte
+#Edukt e --> #Produkt e
 #Edukt --> #Produkt 
 - es entstehen neue Stoffe - andre chem. Eigenschaften
 - ändern sich auch physikalischen Eigenschaften (Aggregatzustand, Farbe, Leuchten (Emission von Photonen))
@@ -14,7 +14,7 @@ $\Delta H$ … Enthalpie Änderung $[kJ/mol]$  *(umgesetzte Energie einer chemis
 
 $\Delta H_{Reaktion} = \Sigma \Delta H_{Produkte} - \Sigma \Delta H_{Edukte}$
 
-1) #Exotherme Reaktion: Produkte haben **weniger** #Energie als die #Edukte
+1) #Exotherm e Reaktion: Produkte haben **weniger** #Energie als die #Edukt e
 	*  $\Delta H < 0$
 	* ![[Drawing 2024-01-25 09.02.55.excalidraw]]
 1) Endotherme Reaktion : Produkte haben **mehr** Energie als Edukte

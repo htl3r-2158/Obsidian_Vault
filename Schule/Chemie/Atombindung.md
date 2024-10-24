@@ -1,4 +1,4 @@
-#Polarität : Bildung von #Partialladungen ( = Teilladungen ) $\delta+ \delta-$
+#Polarität : Bildung von #Partialladung en ( = Teilladungen ) $\delta+ \delta-$
 1. Struktur : asymmetrische Moleküle bilden Dipole aus
 2. EN ($\Delta$EN > 1,7 Ionenbindung)
 
