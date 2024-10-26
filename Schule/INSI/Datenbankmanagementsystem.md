@@ -11,3 +11,15 @@ Vermittlung zwischen der #Datenbank und dem #Anwendungsprogramm oder dem deren B
 - Datensicherung
 - Synchronisation
 - Zugriffssteuerung
+
+## Data Dictionary / Repository
+#Data-Dictionary #Repository
+
+Das Data Dictionary dien der Speicherung von Informationen über die Daten und deren Verwaltung
+Datenbankschema, Sichten und Zugriffsrechte, ...
+
+## Logbuch
+Alle #Transaktionsvorgang e verzeichnet
+- Beginn und Ende
+- Zustand der #Daten zu Beginn der #Transaktion
+#Systemfehler -> Logbuch zur #Wiederherstellung
