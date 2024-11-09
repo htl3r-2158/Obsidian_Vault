@@ -110,3 +110,16 @@ ps     # Process show
 
 pstree
 ```
+
+
+## Hilfe Anzeigen
+### info
+
+```bash
+info [command]
+```
+
+### whatis
+```bash
+whatis command
+```

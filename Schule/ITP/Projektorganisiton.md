@@ -54,3 +54,22 @@ b --- i( )
 
 **Vorteile**: Identifikation mit dem Projekt Erfolge/Misserfolge gut zuordenbar klare Kompetenzen des PL
 **Nachteile**: Beschäftigung der MA nach Projektabschluss unklar → Mit Freelancern Spitzen abfedern
+
+
+## Rangdynamik Modell
+#Rangdynamik-Modell 
+
+informell, bildet sich in einer Gruppe automatisch heraus durch Macht und Einfluss
+### Positionen
+- Alpha     (Führung)
+- Gamma  (Gefolgschaft)
+- Omega   (kritische Stimme, Gegenpol zum Alpha)
+- Beta        (Beobachter, neutraler Experte)
+
+## Teamentwicklung u. Tuckman
+### Phasen
+1. Forming
+2. Storming
+3. Norming
+4. Performing
+5. Ajourning
