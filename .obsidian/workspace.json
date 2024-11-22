@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/BW/Marketing.md",
+                "file": "Schule/Mathe/Exponential und Logarithmus Aufgaben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marketing"
+              "title": "Exponential und Logarithmus Aufgaben"
             }
           },
           {
@@ -245,10 +245,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb2f17a931670552",
+  "active": "aace05ff4f98a21f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-21 13.12.16.excalidraw.md",
+    "Schule/Mathe/Exponentialgleichungen Aufgaben II.md",
     "Schule/BW/Marketing.md",
+    "Excalidraw/Drawing 2024-11-21 13.12.16.excalidraw.md",
     "().md",
     "10.0.0.120.md",
     "Schule/INSI/SQL Befehlsreferenz.md",
@@ -273,7 +274,6 @@
     "Excalidraw/Drawing 2024-11-13 09.05.38.excalidraw.md",
     "Excalidraw/Drawing 2024-11-13 09.30.07.excalidraw.md",
     "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
-    "Schule/INSI/My SQL DataGrip.md",
     "Schule/Images/IMG_5056.jpg",
     "Carcassonne/Images/IMG_4993.jpg",
     "Carcassonne/Images/IMG_5068.jpg",
