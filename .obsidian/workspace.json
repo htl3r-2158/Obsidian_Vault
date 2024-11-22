@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Mathe/Exponential und Logarithmus Aufgaben.md",
+                "file": "Schule/Mathe/Differentialrechnung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exponential und Logarithmus Aufgaben"
+              "title": "Differentialrechnung"
+            }
+          },
+          {
+            "id": "d0baea6a240355a1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-22 13.49.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-22 13.49.29.excalidraw"
+            }
+          },
+          {
+            "id": "59bbf5784a918b16",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-22 13.49.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-22 13.49.29.excalidraw"
             }
           },
           {
@@ -245,8 +269,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aace05ff4f98a21f",
+  "active": "eb2f17a931670552",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-22 13.49.29.excalidraw.md",
+    "Schule/Mathe/Differentialrechnung.md",
+    "Schule/Mathe/Potenzfunktion.md",
+    "Schule/Mathe/Exponential und Logarithmus Aufgaben.md",
     "Schule/Mathe/Exponentialgleichungen Aufgaben II.md",
     "Schule/BW/Marketing.md",
     "Excalidraw/Drawing 2024-11-21 13.12.16.excalidraw.md",
@@ -255,7 +283,6 @@
     "Schule/INSI/SQL Befehlsreferenz.md",
     "Schule/Chemie/Farbstoffe.md",
     "Excalidraw/Drawing 2024-11-20 09.37.54.excalidraw.md",
-    "Schule/Mathe/Differentialrechnung.md",
     "Excalidraw/Drawing 2024-11-20 09.25.23.excalidraw.md",
     "Excalidraw/Drawing 2024-11-20 09.05.12.excalidraw.md",
     "Excalidraw/Drawing 2024-11-20 08.39.50.excalidraw.md",
@@ -271,9 +298,6 @@
     "Excalidraw/Drawing 2024-11-13 08.33.16.excalidraw.md",
     "Excalidraw/Drawing 2024-11-13 08.50.08.excalidraw.md",
     "Excalidraw/Drawing 2024-11-13 08.50.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-13 09.05.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-13 09.30.07.excalidraw.md",
-    "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
     "Schule/Images/IMG_5056.jpg",
     "Carcassonne/Images/IMG_4993.jpg",
     "Carcassonne/Images/IMG_5068.jpg",

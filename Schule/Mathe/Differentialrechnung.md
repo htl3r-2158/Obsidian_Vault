@@ -70,4 +70,41 @@ $cosh = \frac{e^x + e^{-x}}{2}$
 ### Ableitung einer konstanten Funktion
 ![[Drawing 2024-11-20 09.25.23.excalidraw]]
 ### Ableitung der Potenzfunktion
-![[]]
+>[!note] Potenzfunktion
+>$f(x) = x^n$
+>$f'(x)=n*x^{n-1}$
+### Beispiel 2 (1)
+_Ermittle an der Stelle $x_0 = 2, f = \sqrt{x}$
+a) Die Gleichung der Tangente
+b) den Steigungswinkel
+c) den Graphen der Funktion_
+
+![[Drawing 2024-11-22 13.49.29.excalidraw]]
+
+```functionplot
+---
+title: Tangente
+xLabel: 
+yLabel: 
+bounds: [0,10,0,3.5]
+disableZoom: true
+grid: true
+---
+f(x) = 0.354*x + 0.707
+```
+```functionplot
+---
+title: Graph sqrt(x)
+xLabel: 
+yLabel: 
+bounds: [0,10,0,3.5]
+disableZoom: true
+grid: true
+---
+f(x) = sqrt(x)
+```
+
+### HÜ
+- 3.15
+- 3.18 e-h
+- 3.8
