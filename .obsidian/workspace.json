@@ -13,12 +13,84 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Mathe/Differentialrechnung.md",
+                "file": "Schule/Mathe/Ableitungsregeln.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Differentialrechnung"
+              "title": "Ableitungsregeln"
+            }
+          },
+          {
+            "id": "f47c99158d80c011",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-27 08.46.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-27 08.46.45.excalidraw"
+            }
+          },
+          {
+            "id": "8c831b87ab4e3ec7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-27 08.45.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-27 08.45.19.excalidraw"
+            }
+          },
+          {
+            "id": "d96e6172a77072ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-27 08.43.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-27 08.43.00.excalidraw"
+            }
+          },
+          {
+            "id": "415334318dcb6897",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-27 08.41.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-27 08.41.16.excalidraw"
+            }
+          },
+          {
+            "id": "814b72b6602c484f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-27 08.38.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-27 08.38.01.excalidraw"
+            }
+          },
+          {
+            "id": "2c86f9e89033ebf8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-27 08.35.07.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-27 08.35.07.excalidraw"
             }
           },
           {
@@ -175,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -271,8 +344,19 @@
   },
   "active": "eb2f17a931670552",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-22 13.49.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-27 08.46.45.excalidraw.md",
+    "Schule/Mathe/Ableitungsregeln.md",
+    "Excalidraw/Drawing 2024-11-27 08.45.19.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-27 08.43.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-27 08.41.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-27 08.38.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-27 08.35.07.excalidraw.md",
+    "Schule/ITP/Zielformulierung.md",
+    "Schule/ITP/Projektorganisiton.md",
+    "Schule/SYT/BS/BS.md",
+    "Schule/SYT/GETE/Microcontroller.md",
     "Schule/Mathe/Differentialrechnung.md",
+    "Excalidraw/Drawing 2024-11-22 13.49.29.excalidraw.md",
     "Schule/Mathe/Potenzfunktion.md",
     "Schule/Mathe/Exponential und Logarithmus Aufgaben.md",
     "Schule/Mathe/Exponentialgleichungen Aufgaben II.md",
@@ -286,18 +370,7 @@
     "Excalidraw/Drawing 2024-11-20 09.25.23.excalidraw.md",
     "Excalidraw/Drawing 2024-11-20 09.05.12.excalidraw.md",
     "Excalidraw/Drawing 2024-11-20 08.39.50.excalidraw.md",
-    "Schule/Mathe/Hausübungen/Hausübung.md",
     "Schule/Mathe/Hausübungen/Hausübung_Wolf_Tangente.pdf",
-    "Excalidraw/Drawing 2024-11-20 08.18.54.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-20 08.14.03.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-20 08.10.54.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-20 08.06.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-20 08.00.17.excalidraw.md",
-    "Schule/NWT/Switching 3BI.md",
-    "Schule/NWT/Switching.md",
-    "Excalidraw/Drawing 2024-11-13 08.33.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-13 08.50.08.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-13 08.50.48.excalidraw.md",
     "Schule/Images/IMG_5056.jpg",
     "Carcassonne/Images/IMG_4993.jpg",
     "Carcassonne/Images/IMG_5068.jpg",
