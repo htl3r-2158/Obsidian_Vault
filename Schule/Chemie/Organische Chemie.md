@@ -15,7 +15,7 @@ Wöhler (1828):  Synthese von Harnstoff
 #Bohrsche-Atommodell:
 	![[Drawing 2024-09-10 10.21.19.excalidraw]]
 #Elektronenkonfiguration 
-![[Drawing 2024-09-10 10.22.09.excalidraw]]
+![[Drawing 2024-09-10 10.22.09.excalidraw | 1000]]
 
 1) #Dreifachbindung
 Bsp.: $Ethin$  $C_2H_2$

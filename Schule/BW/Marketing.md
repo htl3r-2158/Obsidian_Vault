@@ -218,5 +218,81 @@ Absatz von Coca Cola
 #### Marktpotential und Marktanteil
 ![[Drawing 2024-11-21 13.12.16.excalidraw]]
 
-## Preispolitik (Product)
-to be continued...
+## Produkt- und Sortimentspolitik (Product)
+
+> Ein Produkt ist jedes Objekt, das auf einem Markt angeboten wird und geeignet ist, Wünsche und Bedürfnisse zu befriedigen
+
+>Die Gesamtheit aller Produkte eines Unternehmens wird als Produktprogramm bezeichnet.
+### Arten
+- Sachgüter
+- Dienstleistugnen
+- Personen
+- Orte
+- Organisation
+
+### Produktausprägung
+| Produktausprägung  |                               |                |
+| ------------------ | ----------------------------- | -------------- |
+| Reine Sachleistung | Sachleistung + Dienstleistung | Dienstleistung |
+|                    |                               |                |
+|                    |                               |                |
+Der Begriff **Extra Value Proposition** bezeichnet den Trend, zum Produkt zunehmend zusätliche Dienstleistungen anzubieten
+
+### Besonderheiten von Dienstleistungen
+
+Der Kunde bringt sich selbst in die Leistung ein (Restaurantbesuch)
+
+Produktion und Konsumation erfolgt oft zeitgleich (Massage)
+
+Die Kunden können das Ergebnis beeinflussen (Reisegruppe)
+
+Bei Dienstleistungen besteht Kaufunsicherheit: Der Kunde kann oft im vorhinein nicht etwa Farbe, Design, etc. beurteilen wie bei einem Produkt.
+
+Dienstleistungen sind nicht lagerfähig. Vorteil ist, dass keine entsprechenden Lagerräume geschaffen werden müssen, Nachteil ist jedoch, dass alle Ressourcen immer zur richtigen Zeit am richtigen Ort verfügbar sein müssen.
+
+### Gestaltungselemente eines Produkts
+Alle Gestaltungselemente eines Produkts müssen den Befüfnissen 
+```mermaid
+graph TD
+
+a(Produkt-
+gestaltung)
+b(Garantie)
+c(Technische 
+Eigenschaften)
+d(Sortiment-
+einbindung)
+e(Verpackung)
+f(Image-/
+Marken-
+bildung)
+g(Qualitäts-
+merkmale)
+h(Service/
+Kundendienst)
+
+i --- a
+i --- j( )
+i --- c
+i --- k( )
+i --- e
+i --- l( ) 
+i --- g
+i --- m( )
+
+j --- b
+k --- d
+l --- f
+m --- h
+```
+
+### Kundennutzen
+Manche Unternehmen sind in Schwierigkeiten gekommen, da sie bei der Perfektionierung ihrer Produkte die Kunden aus dem Blick verloren haben
+
+Die Kunden interessiert primär der persönliche Nutzen, den das Produkt liefern soll. Entsprechend müssen produktpolitische Entscheidungen am Kundennutzen ausgerichtet werden. Dabei unterscheidet man den objektiv messbaren Grundnutzen vom subjektiv empfunden Zusatznutzen und den psychologischen Nutzen
+
+Der Nutzen ist wichtig für die Preisgestaltung und den Markterfolg eines Produkts bzw. einer Dienstleistung.
+
+Der Nutzen ist nicht unbedingt stabil, d.h. durch Angebote von Mitbewerbern, technologische und gesellschaftliche Entwicklung kann er sich verändern (z.B. der Nutzen von MP3-Playern ist massiv durch die Verbreitung von Streaming-Diensten gesunken)
+
+Der Nutzen eines Produkts bzw. eine Dienstleistung ist wichtig bei der Entwicklung von neuen Produkten und bei der Erstellung von Wachstumsprognosen.
