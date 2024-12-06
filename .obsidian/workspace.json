@@ -25,12 +25,14 @@
             "id": "6d36cec80e15bbaf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-04 08.35.41.excalidraw.md"
+                "file": "Schule/English/Persuasive Language.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-04 08.35.41.excalidraw"
+              "icon": "lucide-file",
+              "title": "Persuasive Language"
             }
           }
         ],
@@ -185,13 +187,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20b3be9e94ab8ec8",
+  "active": "6d36cec80e15bbaf",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-12-04 08.35.41.excalidraw.md",
+    "Schule/English/Persuasive Language.md",
     "Schule/Mathe/Ableitungsregeln.md",
     "Unbenannt.canvas",
     "Excalidraw/Drawing 2024-09-10 10.22.09.excalidraw.md",
     "2024-12-04.md",
-    "Excalidraw/Drawing 2024-12-04 08.35.41.excalidraw.md",
     "Schule/Chemie/Mesomerie.md",
     "Schule/Chemie/Organische Chemie.md",
     "Schule/SYT/GETE/Microcontroller.md",
