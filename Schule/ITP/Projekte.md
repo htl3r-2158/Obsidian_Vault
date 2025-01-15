@@ -67,7 +67,7 @@ Forschungs- und Entwicklungsprojekte
 	- debuggen
 	- retesten
 - Abschluss
-	- Lessons Learnded
+	- Lessons Learned
 	- Abnahme durchführen
 		- Meilenstein
 		- Rechnung legen

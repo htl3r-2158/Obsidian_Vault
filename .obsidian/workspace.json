@@ -4,39 +4,120 @@
     "type": "split",
     "children": [
       {
-        "id": "363e2a670fd7a16d",
+        "id": "53c2a6e06d5cb773",
         "type": "tabs",
         "children": [
           {
-            "id": "eb2f17a931670552",
+            "id": "9abba077ae3a9af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Mathe/Ableitungsregeln.md",
+                "file": "Schule/Mathe/Höhere Ableitung einer Polynomfunktion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ableitungsregeln"
+              "title": "Höhere Ableitung einer Polynomfunktion"
             }
           },
           {
-            "id": "6d36cec80e15bbaf",
+            "id": "05e84d801a3715eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Schule/English/Persuasive Language.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-01-15 09.18.59.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Persuasive Language"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-15 09.18.59.excalidraw"
+            }
+          },
+          {
+            "id": "4e9dd88e657f1cd0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-15 09.00.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-15 09.00.29.excalidraw"
+            }
+          },
+          {
+            "id": "4d7544e120496f3d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-15 08.49.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-15 08.49.00.excalidraw"
+            }
+          },
+          {
+            "id": "94d47c97282ffa13",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-15 08.22.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-15 08.22.05.excalidraw"
+            }
+          },
+          {
+            "id": "53985e00189d6bf3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-14 11.24.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-14 11.24.48.excalidraw"
+            }
+          },
+          {
+            "id": "c3cec9944c6028cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-14 11.22.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-14 11.22.26.excalidraw"
+            }
+          },
+          {
+            "id": "81fda94a9d240da1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-13 13.44.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-13 13.44.22.excalidraw"
+            }
+          },
+          {
+            "id": "145a990eb3b9dbe2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-10 13.37.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-10 13.37.50.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -187,35 +269,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d36cec80e15bbaf",
+  "active": "9abba077ae3a9af2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-04 08.35.41.excalidraw.md",
-    "Schule/English/Persuasive Language.md",
-    "Schule/Mathe/Ableitungsregeln.md",
-    "Unbenannt.canvas",
-    "Excalidraw/Drawing 2024-09-10 10.22.09.excalidraw.md",
-    "2024-12-04.md",
-    "Schule/Chemie/Mesomerie.md",
+    "Excalidraw/Drawing 2025-01-15 09.18.59.excalidraw.md",
+    "Schule/Mathe/Höhere Ableitung einer Polynomfunktion.md",
+    "Excalidraw/Drawing 2025-01-15 09.00.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-15 08.49.00.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-15 08.22.05.excalidraw.md",
+    "Schule/GGP/7.1.2025.md",
+    "Schule/GGP/Konzeptpapier S. 41.md",
+    "Schule/Chemie/Organische Chemie II.md",
+    "Excalidraw/Drawing 2025-01-14 11.24.48.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-14 11.22.26.excalidraw.md",
     "Schule/Chemie/Organische Chemie.md",
-    "Schule/SYT/GETE/Microcontroller.md",
-    "Excalidraw/Drawing 2024-11-29 13.55.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-29 14.07.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-29 14.13.58.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-29 13.52.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-29 13.49.36.excalidraw.md",
+    "Schule/Chemie/Mesomerie.md",
     "Schule/Chemie/Farbstoffe.md",
-    "Schule/Mathe/Differentialrechnung.md",
-    "Schule/Mathe/Potenzfunktion.md",
+    "Schule/ITP/Was haben wir schon im Projekt.md",
+    "Schule/NWT/Network Security.md",
+    "Excalidraw/Drawing 2025-01-13 13.44.22.excalidraw.md",
+    "Schule/NWT/Switching 3BI.md",
+    "Schule/SYT/BS/Unbenannt.md",
+    "Schule/SYT/BS/BS.md",
+    "Schule/SYT/GETE/Microcontroller.md",
+    "Schule/SYT/GETE/Operationsverstärker.md",
+    "Schule/Mathe/Wiederholung.md",
+    "Excalidraw/Drawing 2025-01-10 13.37.50.excalidraw.md",
     "Schule/BW/Marketing.md",
-    "Schule/Marketing.md",
-    "Schule/Aif.md",
-    "Schule/BW/Logistik.md",
-    "Schule/BW/Organisation.md",
     "Schule/BW/Unternehmensrecht.md",
-    "Excalidraw/Drawing 2024-11-20 08.39.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-20 09.37.54.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-22 13.49.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-27 08.35.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-08 09.17.52.excalidraw.md",
+    "Unbenannt.canvas",
     "Schule/Mathe/Hausübungen/Hausübung_Wolf_Tangente.pdf",
     "Schule/Images/IMG_5056.jpg",
     "Carcassonne/Images/IMG_4993.jpg",
