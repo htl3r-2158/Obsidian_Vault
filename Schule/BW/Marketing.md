@@ -433,7 +433,7 @@ a(Wer ist die Öffentlichkeit?) --- b(Interne Öffentlichkeitsarbeit)
 a --- c(Externe Öffentlichkeitsarbeit)
 ```
 
-PR besteht darin, ein positives Erscheinungsbild des Betriebes aufzubauen. **Öffentlichkeitsarbeit** umfasst sämtliche MA0nahmen eines Betriebes, um das Vertrauen ausgewählter Zielgruppen zu gewinnen. Gezielte Aktionen können den Bekanntheitsgrad und durch das gehobene Image auch die Motivation der Mitarbeiter und Mitarbeiterinnen steigern.
+PR besteht darin, ein positives Erscheinungsbild des Betriebes aufzubauen. **Öffentlichkeitsarbeit** umfasst sämtliche Maßnahmen eines Betriebes, um das Vertrauen ausgewählter Zielgruppen zu gewinnen. Gezielte Aktionen können den Bekanntheitsgrad und durch das gehobene Image auch die Motivation der Mitarbeiter und Mitarbeiterinnen steigern.
 
 ### Eventmarketing
 Soll durch außergewöhnliche Veranstaltungen viele Gäste in eine Region oder Stadt locken.

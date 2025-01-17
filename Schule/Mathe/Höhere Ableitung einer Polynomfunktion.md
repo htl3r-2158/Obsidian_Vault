@@ -29,3 +29,5 @@ $y'' = \frac{dy'}{dx} = \frac{d}{dx} * \frac{dy}{dx}$ od. kürzer $y''= \frac{d^
 
 ![[Drawing 2025-01-15 09.00.29.excalidraw]]
 ![[Drawing 2025-01-15 09.18.59.excalidraw]]
+
+![[Drawing 2025-01-17 13.43.50.excalidraw]]Drawing
