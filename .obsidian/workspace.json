@@ -4,141 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "53c2a6e06d5cb773",
+        "id": "9c0d0781a656f224",
         "type": "tabs",
         "children": [
           {
-            "id": "9abba077ae3a9af2",
+            "id": "b0e7724ad7c540ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/SYT/GETE/Elektrisches Feld.md",
+                "file": "Schule/Mathe/Das Differential einer Funktion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrisches Feld"
+              "title": "Das Differential einer Funktion"
             }
           },
           {
-            "id": "550f5d366c9865b6",
+            "id": "db5c80d6271a5e92",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-17 13.57.04.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-01-22 09.33.57.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-17 13.57.04.excalidraw"
+              "title": "Drawing 2025-01-22 09.33.57.excalidraw"
             }
           },
           {
-            "id": "6b689e7654f73301",
+            "id": "15d8c4662b7aa8bb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-17 13.43.50.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-01-22 09.14.34.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-17 13.43.50.excalidraw"
+              "title": "Drawing 2025-01-22 09.14.34.excalidraw"
             }
           },
           {
-            "id": "05e84d801a3715eb",
+            "id": "b43801e51ac449af",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-15 09.18.59.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-01-22 09.05.44.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-15 09.18.59.excalidraw"
+              "title": "Drawing 2025-01-22 09.05.44.excalidraw"
             }
           },
           {
-            "id": "4e9dd88e657f1cd0",
+            "id": "79695f57178383e3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-15 09.00.29.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-01-22 08.29.01.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-15 09.00.29.excalidraw"
+              "title": "Drawing 2025-01-22 08.29.01.excalidraw"
             }
           },
           {
-            "id": "4d7544e120496f3d",
+            "id": "0a2773c672e2e4e0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-15 08.49.00.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-01-22 08.15.51.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-15 08.49.00.excalidraw"
-            }
-          },
-          {
-            "id": "94d47c97282ffa13",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-15 08.22.05.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-15 08.22.05.excalidraw"
-            }
-          },
-          {
-            "id": "53985e00189d6bf3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-14 11.24.48.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-14 11.24.48.excalidraw"
-            }
-          },
-          {
-            "id": "c3cec9944c6028cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-14 11.22.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-14 11.22.26.excalidraw"
-            }
-          },
-          {
-            "id": "81fda94a9d240da1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-13 13.44.22.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-13 13.44.22.excalidraw"
-            }
-          },
-          {
-            "id": "145a990eb3b9dbe2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-10 13.37.50.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-10 13.37.50.excalidraw"
+              "title": "Drawing 2025-01-22 08.15.51.excalidraw"
             }
           }
         ]
@@ -197,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -292,34 +233,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9abba077ae3a9af2",
+  "active": "b0e7724ad7c540ce",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-22 09.33.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-22 09.14.34.excalidraw.md",
     "Schule/Mathe/Das Differential einer Funktion.md",
-    "Schule/SYT/GETE/Elektrisches Feld.md",
-    "Excalidraw/Drawing 2025-01-17 13.57.04.excalidraw.md",
-    "Schule/Mathe/Höhere Ableitung einer Polynomfunktion.md",
+    "Excalidraw/Drawing 2025-01-22 09.05.44.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-22 08.29.01.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-22 08.15.51.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-10 13.37.50.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-13 13.44.22.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-14 11.22.26.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-14 11.24.48.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-15 08.22.05.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-15 08.49.00.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-15 09.00.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-15 09.18.59.excalidraw.md",
     "Excalidraw/Drawing 2025-01-17 13.43.50.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-17 13.57.04.excalidraw.md",
+    "Schule/ITP/Projektstrukturplan.md",
+    "Schule/ITP/Zielformulierung.md",
+    "Schule/ITP/Projektorganisiton.md",
+    "Schule/ITP/Stakeholderanalyse.md",
+    "Schule/ITP/Was haben wir schon im Projekt.md",
+    "Schule/SYT/GETE/Elektrisches Feld.md",
+    "Schule/Mathe/Höhere Ableitung einer Polynomfunktion.md",
     "Schule/BW/Rechnungswesen.md",
     "Schule/BW/Marketing.md",
     "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
-    "Excalidraw/Drawing 2025-01-15 09.18.59.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-15 09.00.29.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-15 08.49.00.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-15 08.22.05.excalidraw.md",
-    "Schule/GGP/7.1.2025.md",
-    "Schule/GGP/Konzeptpapier S. 41.md",
-    "Schule/Chemie/Organische Chemie II.md",
-    "Excalidraw/Drawing 2025-01-14 11.24.48.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-14 11.22.26.excalidraw.md",
-    "Schule/Chemie/Organische Chemie.md",
-    "Schule/Chemie/Mesomerie.md",
-    "Schule/Chemie/Farbstoffe.md",
-    "Schule/ITP/Was haben wir schon im Projekt.md",
-    "Schule/NWT/Network Security.md",
-    "Excalidraw/Drawing 2025-01-13 13.44.22.excalidraw.md",
-    "Schule/NWT/Switching 3BI.md",
-    "Schule/SYT/BS/Unbenannt.md",
-    "Schule/SYT/BS/BS.md",
     "Unbenannt.canvas",
     "Schule/Mathe/Hausübungen/Hausübung_Wolf_Tangente.pdf",
     "Schule/Images/IMG_5056.jpg",
