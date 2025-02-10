@@ -1,9 +1,5 @@
 [
   "obsidian-importer",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "obsidian-functionplot",
-  "obsidian-pandoc",
-  "obsidian-dictionary-plugin",
-  "better-word-count"
+  "obsidian-git"
 ]

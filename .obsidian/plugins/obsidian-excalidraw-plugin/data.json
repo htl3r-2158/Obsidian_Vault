@@ -5,10 +5,14 @@
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
+  "fontAssetsPath": "Excalidraw/CJK Fonts",
+  "loadChineseFonts": false,
+  "loadJapaneseFonts": false,
+  "loadKoreanFonts": false,
   "compress": true,
   "decompressForMDView": false,
   "onceOffCompressFlagReset": true,
-  "onceOffGPTVersionReset": false,
+  "onceOffGPTVersionReset": true,
   "autosave": true,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
@@ -21,12 +25,14 @@
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "previewImageType": "SVGIMG",
+  "renderingConcurrency": 3,
   "allowImageCache": true,
   "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
   "height": "",
+  "overrideObsidianFontSize": false,
   "dynamicStyling": "none",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": false,
@@ -36,6 +42,7 @@
   "defaultMode": "normal",
   "defaultPenMode": "always",
   "penModeDoubleTapEraser": true,
+  "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
@@ -93,7 +100,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.4.1",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.8.3",
     "libraryItems": [
       {
         "id": "d4zIDhE11df3diAQIOfiB",
@@ -39397,10 +39404,11 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "2.4.1",
+  "previousRelease": "2.8.3",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
+  "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
@@ -39727,6 +39735,11 @@
   "pdfNumRows": 1,
   "pdfDirection": "right",
   "pdfImportScale": 0.3,
+  "gridSettings": {
+    "DYNAMIC_COLOR": true,
+    "COLOR": "#000000",
+    "OPACITY": 50
+  },
   "laserSettings": {
     "DECAY_LENGTH": 1050,
     "DECAY_TIME": 5000,
@@ -40042,6 +40055,7 @@
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
   "longPressMobile": 500,
+  "doubleClickLinkOpenViewMode": true,
   "isDebugMode": false,
   "rank": "Silver",
   "modifierKeyOverrides": [
@@ -40065,5 +40079,14 @@
     }
   ],
   "showSplashscreen": true,
+  "pdfSettings": {
+    "pageSize": "A4",
+    "pageOrientation": "portrait",
+    "fitToPage": 1,
+    "paperColor": "white",
+    "customPaperColor": "#ffffff",
+    "alignment": "center",
+    "margin": "normal"
+  },
   "autosaveInterval": 15000
 }

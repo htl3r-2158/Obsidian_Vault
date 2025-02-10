@@ -4,81 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c0d0781a656f224",
+        "id": "cbbcfd742307d72e",
         "type": "tabs",
         "children": [
           {
-            "id": "b0e7724ad7c540ce",
+            "id": "693f72574383c94a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schule/Mathe/Das Differential einer Funktion.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Das Differential einer Funktion"
-            }
-          },
-          {
-            "id": "db5c80d6271a5e92",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-22 09.33.57.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-22 09.33.57.excalidraw"
-            }
-          },
-          {
-            "id": "15d8c4662b7aa8bb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-22 09.14.34.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-22 09.14.34.excalidraw"
-            }
-          },
-          {
-            "id": "b43801e51ac449af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-22 09.05.44.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-22 09.05.44.excalidraw"
-            }
-          },
-          {
-            "id": "79695f57178383e3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-22 08.29.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-22 08.29.01.excalidraw"
-            }
-          },
-          {
-            "id": "0a2773c672e2e4e0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-22 08.15.51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-22 08.15.51.excalidraw"
+              "title": "New tab"
             }
           }
         ]
@@ -100,10 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -120,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Suchen"
+              "title": "Search"
             }
           },
           {
@@ -130,15 +67,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Lesezeichen"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -163,7 +99,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rückverweis"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-04 08.35.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Drawing 2024-12-04 08.35.41.excalidraw öffnen"
+              "title": "Outgoing links"
             }
           },
           {
@@ -187,20 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "20b3be9e94ab8ec8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -208,84 +135,79 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b0e7724ad7c540ce",
+  "active": "693f72574383c94a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-22 09.33.57.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-22 09.14.34.excalidraw.md",
-    "Schule/Mathe/Das Differential einer Funktion.md",
-    "Excalidraw/Drawing 2025-01-22 09.05.44.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-22 08.29.01.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-22 08.15.51.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-10 13.37.50.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-13 13.44.22.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-14 11.22.26.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-14 11.24.48.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-15 08.22.05.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-15 08.49.00.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-15 09.00.29.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-15 09.18.59.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-17 13.43.50.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-17 13.57.04.excalidraw.md",
-    "Schule/ITP/Projektstrukturplan.md",
-    "Schule/ITP/Zielformulierung.md",
-    "Schule/ITP/Projektorganisiton.md",
-    "Schule/ITP/Stakeholderanalyse.md",
-    "Schule/ITP/Was haben wir schon im Projekt.md",
-    "Schule/SYT/GETE/Elektrisches Feld.md",
-    "Schule/Mathe/Höhere Ableitung einer Polynomfunktion.md",
-    "Schule/BW/Rechnungswesen.md",
-    "Schule/BW/Marketing.md",
-    "Schule/BW/Qualitätsmanagement/Qualitätsmanagement.md",
-    "Unbenannt.canvas",
-    "Schule/Mathe/Hausübungen/Hausübung_Wolf_Tangente.pdf",
-    "Schule/Images/IMG_5056.jpg",
-    "Carcassonne/Images/IMG_4993.jpg",
-    "Carcassonne/Images/IMG_5068.jpg",
-    "Carcassonne/Images/IMG_5048.jpg",
-    "Carcassonne/Images/IMG_5049.jpg",
-    "Schule/Images/IMG_5057.jpg",
-    "Schule/Images/IMG_5056.jpg.~tmp",
-    "Schule/Images/IMG_5057.jpg.~tmp",
-    "Schule/Images/Pasted image 20241107082914.png",
-    "Schule/Images/Pasted image 20241107082731.png",
-    "Schule/Images/Pasted image 20241107082719.png",
-    "Schule/Images/Pasted image 20241106135233.png",
-    "Schule/NWT/ACLs-Dossier.pdf",
-    "Schule/Mathe/Hausübungen/Konvergente_Folgen.pdf",
-    "Carcassonne/Images",
-    "Schule/Mathe/Hausübungen/12.10.24.docx",
-    "Schule/Mathe/Hausübungen/12.10.24.pdf",
-    "Carcassonne/CarcBasis_SoloRegel_10_D.pdf",
-    "Carcassonne/CarcBasis_SoloRegel_10_D.pdf.crdownload",
+    "Schule/SYT/GINF/Unbenannt.md",
+    "Schule/SYT/GINF/Zeichensätze.md",
+    "Schule/BW/Unternehmensrecht.md",
+    "Schule/NWT/Definitionen von Abkürzungne.md",
+    "Schule/Mathe/Hausübungen/12.1.2023.md",
+    "Schule/NWT/DHCP Konfiguration.md",
+    "siehe.md",
+    "Pasted image 20240130130959.png",
+    "Excalidraw/Drawing 2024-02-01 10.18.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-01 10.07.31.excalidraw.md",
+    "Schule/Deutsch/Fische Interpretation.md",
+    "Schule/SYT/BS/Linux Befehle.md",
+    "Schule/SYT/BS/Linux-Bash.md",
+    "Excalidraw/Drawing 2024-01-30 13.02.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 12.03.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-30 11.56.10.excalidraw.md",
+    "Schule/SYT/GINF/Signale.md",
+    "Schule/SYT/GINF/Parität und Blockcodierung.md",
+    "Schule/Deutsch/Arbeitsauftrag Deutsch.md",
+    "Schule/Deutsch/Der Sandmann Geschichte weiterspinnen.md",
+    "Schule/Chemie/Protokolle/Lösungen.md",
+    "Schule/Chemie/Intermolekulare Wechselwirkungen.md",
+    "Schule/Chemie/Protokolle/Glukosen Trennung Exotherm und Endotherm.md",
+    "Schule/Chemie/Chemische Reaktionen.md",
+    "Schule/Chemie/Atombindung.md",
+    "Schule/GGP/Konzeptpapier S. 41.md",
+    "Schule/NWT/DHCP.md",
+    "Schule/Chemie/Protokolle",
+    "Schule/Mathe/Hausübungen",
+    "Schule/SYT/GINF/Unbenannt",
     "Unbenannt 1.canvas",
+    "Unbenannt.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
+    "Excalidraw",
+    "OneNote",
+    "Schule/Untitled",
+    "Schule/BW",
+    "Schule/English",
+    "Schule/MEDT",
+    "Schule/ITSI",
     "Untitled 3.canvas"
   ]
 }
