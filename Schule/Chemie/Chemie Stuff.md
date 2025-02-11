@@ -14,4 +14,3 @@ noteID: a148f16f-ce30-4bfb-8835-21ead86c22db
 ![[Drawing 2025-02-11 11.14.41.excalidraw]]
 ### Bromierung: $+Br_2$
 ![[Drawing 2025-02-11 11.19.48.excalidraw]]
-
