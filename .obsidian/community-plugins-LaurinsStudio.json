@@ -3,9 +3,10 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-functionplot",
-  "easy-typing-obsidian",
+  "obsidian-pandoc",
   "obsidian-dictionary-plugin",
-  "custom-note-width",
   "better-word-count",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "custom-note-width",
+  "obsidian-completr"
 ]

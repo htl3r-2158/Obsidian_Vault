@@ -1,3 +1,6 @@
+---
+noteID: c5ec8836-397d-4c87-9fd0-73f89c3b525f
+---
 Objektstrukturplan OSP / Betrachtungsobjektplan BOP
 
 Ziele -> OSP / BOP
