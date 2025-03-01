@@ -4,93 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "69f7c21f25862fe8",
+        "id": "c926cce42be32692",
         "type": "tabs",
         "children": [
           {
-            "id": "1da676820429ab32",
+            "id": "81d9fdd69befab04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Chemie/Kunststoffe.md",
+                "file": "Schule/Mathe/Parameter Darstellung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kunststoffe"
+              "title": "Parameter Darstellung"
             }
           },
           {
-            "id": "4e8b5e40d5d4ee96",
+            "id": "a5b1b1ab2e58c90e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-25 11.19.27.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-02-26 09.13.42.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-25 11.19.27.excalidraw"
+              "title": "Drawing 2025-02-26 09.13.42.excalidraw"
             }
           },
           {
-            "id": "752d4c43e2be755c",
+            "id": "12f83cfe30c191e6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-25 11.15.04.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-02-26 09.08.05.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-25 11.15.04.excalidraw"
+              "title": "Drawing 2025-02-26 09.08.05.excalidraw"
             }
           },
           {
-            "id": "88a84e5097b23b1e",
+            "id": "293dae00327b8c81",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-25 11.12.57.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-02-26 08.41.17.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-25 11.12.57.excalidraw"
-            }
-          },
-          {
-            "id": "4d5b451da54901e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-25 11.04.53.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-25 11.04.53.excalidraw"
-            }
-          },
-          {
-            "id": "24653370f9a6cb1d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-25 11.00.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-25 11.00.29.excalidraw"
-            }
-          },
-          {
-            "id": "9bfe19cbe172fb79",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-25 10.58.57.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-25 10.58.57.excalidraw"
+              "title": "Drawing 2025-02-26 08.41.17.excalidraw"
             }
           }
         ]
@@ -150,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -242,6 +207,16 @@
               "icon": "quote-glyph",
               "title": "Dictionary"
             }
+          },
+          {
+            "id": "1de25c7641fee683",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -264,15 +239,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1da676820429ab32",
+  "active": "798d447047eccace",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-25 11.19.27.excalidraw.md",
+    "Schule/BW/Rechnungswesen.md",
+    "Schule/Mathe/Parameter Darstellung.md",
+    "Excalidraw/Drawing 2025-02-26 09.13.42.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-26 09.08.05.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-26 08.41.17.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-26 08.15.18.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-25 10.58.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-25 11.00.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-25 11.12.57.excalidraw.md",
     "Excalidraw/Drawing 2025-02-25 11.15.04.excalidraw.md",
     "Schule/Chemie/Kunststoffe.md",
+    "Excalidraw/Drawing 2025-02-25 11.19.27.excalidraw.md",
     "Excalidraw/Drawing 2025-02-25 11.04.53.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-25 11.12.57.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-25 11.00.29.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-25 10.58.57.excalidraw.md",
     "Excalidraw/Drawing 2025-02-11 11.05.59.excalidraw.md",
     "Excalidraw/Drawing 2025-02-11 11.08.38.excalidraw.md",
     "Excalidraw/Drawing 2025-02-11 11.09.22.excalidraw.md",
@@ -288,12 +269,6 @@
     "Schule/Images/IMG_5507.jpg.~tmp",
     "Schule/Mathe/SMÜ besprechung.md",
     "Schule/Mathe/Ableitung von Funktionen.md",
-    "Schule/NWT/Network Security.md",
-    "Schule/Chemie/Chemie Stuff.md",
-    "Schule/ITP/Was haben wir schon im Projekt.md",
-    "Tutorials/flowcharts.md",
-    "Basics.md",
-    "Schule/SYT/GINF/Unbenannt.md",
     "Pasted image 20240130130959.png",
     "Schule/Chemie/Protokolle",
     "Schule/Mathe/Hausübungen",
