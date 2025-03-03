@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Mathe/Parameter Darstellung.md",
+                "file": "Schule/NWT/Show Befehle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parameter Darstellung"
+              "title": "Show Befehle"
             }
           },
           {
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -239,10 +238,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "798d447047eccace",
+  "active": "81d9fdd69befab04",
   "lastOpenFiles": [
-    "Schule/BW/Rechnungswesen.md",
     "Schule/Mathe/Parameter Darstellung.md",
+    "Schule/NWT/Show Befehle.md",
+    "Schule/BW/Rechnungswesen.md",
     "Excalidraw/Drawing 2025-02-26 09.13.42.excalidraw.md",
     "Excalidraw/Drawing 2025-02-26 09.08.05.excalidraw.md",
     "Excalidraw/Drawing 2025-02-26 08.41.17.excalidraw.md",
@@ -268,7 +268,6 @@
     "Schule/Images/IMG_5507.jpg",
     "Schule/Images/IMG_5507.jpg.~tmp",
     "Schule/Mathe/SMÜ besprechung.md",
-    "Schule/Mathe/Ableitung von Funktionen.md",
     "Pasted image 20240130130959.png",
     "Schule/Chemie/Protokolle",
     "Schule/Mathe/Hausübungen",
