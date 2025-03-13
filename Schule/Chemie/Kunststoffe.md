@@ -23,3 +23,5 @@ lang: de
 - **Polyaddition**:        Bsp.: Polyuethan ($PU$)
   ![[Drawing 2025-02-25 11.19.27.excalidraw | 1000]]
 [^1]: Teilchen mit ungepaarten $e^-$
+
+![[IMG_5534.jpg]]
