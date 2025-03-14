@@ -286,6 +286,7 @@ Domain
 Daten
 Durch
 Differential
+Driving
 Entity
 Entities
 Elemente
@@ -467,6 +468,7 @@ Ethanol
 Extremstelle
 Extremstellen
 Extrema
+Effects
 Relationship
 Relationships
 Realisierung
@@ -935,6 +937,7 @@ geändert
 geliehen
 globalen
 ganzrationale
+goods
 Hilfsmittel
 Hm
 Hi
@@ -1215,6 +1218,7 @@ fpih
 fScB
 fch
 ffI
+factors
 den
 der
 durch
@@ -2511,6 +2515,7 @@ Guard
 Gateway
 Gerät
 Graphen
+Global
 und
 under
 uh
@@ -3091,6 +3096,7 @@ eoE
 explicit
 elektrische
 erhält
+exploitation
 Typs
 Typ
 Text
@@ -4085,6 +4091,11 @@ ill
 icQ
 iiT
 implict
+international
+internet
+industrialization
+interconnectedness
+information
 aufgebaut
 ay
 ahhH
@@ -4462,6 +4473,9 @@ tQlN
 tJ
 tJY
 tXWFC
+trade
+transport
+travel
 VIEW
 VS
 VC
@@ -4838,6 +4852,7 @@ ooo
 oCH
 oben
 ohne
+outsourcing
 You
 Ybr
 YH
@@ -5077,6 +5092,10 @@ cbZ
 cJj
 cQX
 cab
+cheaper
+cooperation
+culture
+communication
 For
 FD
 FN
@@ -5643,6 +5662,7 @@ vwF
 vlan
 vergibt
 verbrennen
+variety
 bjj
 boo
 bP
