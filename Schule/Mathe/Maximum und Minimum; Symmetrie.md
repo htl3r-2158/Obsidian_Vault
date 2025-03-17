@@ -57,3 +57,5 @@ Man unterscheidet:
 
 ## Bsp. 1:
 ![[Drawing 2025-03-12 09.04.34.excalidraw | 1000]]
+
+![[Drawing 2025-03-14 12.43.51.excalidraw]]

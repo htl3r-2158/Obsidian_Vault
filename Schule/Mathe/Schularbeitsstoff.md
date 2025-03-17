@@ -4,5 +4,5 @@
 - Kurvendiskussion (Monotonie, Krümmungsverhalten, Extrema, Wendestellen, Symmetrie)
 
 ## Buchseiten:
-- S113 - 117 Vorgerechnte Beispiele
+- S113 - 117 Vorgerechnete Beispiele
 - S129
