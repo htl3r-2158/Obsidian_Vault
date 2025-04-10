@@ -148,6 +148,10 @@ Identität
 Identitäts
 Increase
 Integral
+Integrationskonstante
+Integrand
+Integrationsvariable
+Integration
 Datenbanken
 Das
 Datenbankentwurf
@@ -303,6 +307,7 @@ Diskussionen
 Diakonie
 Definiere
 Daher
+Differenzieren
 Entity
 Entities
 Elemente
@@ -1328,6 +1333,7 @@ finden
 freie
 flexible
 falsch
+festgelegte
 den
 der
 durch
@@ -1991,6 +1997,7 @@ Wandelt
 Wir
 Werten
 Wertefragen
+Winkelfunktion
 werden
 with
 wZ
@@ -2128,6 +2135,7 @@ weiterhin
 wire
 wireless
 well
+weggelassen
 modelliert
 mehreren
 menu
@@ -2455,6 +2463,7 @@ Politik
 Parteien
 Produktionsmittel
 Proletariat
+Probe
 Chen
 CU
 CCCp
@@ -2738,6 +2747,7 @@ Gleichheit
 Gemeinwohl
 Globalisierungskritik
 Gesucht
+Grundintegrale
 und
 under
 uh
@@ -3661,6 +3671,7 @@ Umsatzes
 Unternehmensleitbild
 Unternehmenslietbild
 Umverteilung
+Unbestimmtes
 Set
 Schlüssel
 Switch
@@ -3857,6 +3868,7 @@ Schutz
 Siehe
 Switched
 Stammfunktion
+Stammfkt
 Kompaktes
 Kardinalität
 Komplexität
@@ -4024,6 +4036,7 @@ Kapitalismus
 Karl
 Klassenkampf
 Klimaschutz
+Konkreten
 zuordenbares
 zu
 zC
@@ -4328,6 +4341,8 @@ Bedeutung
 Borderless
 Bandwith
 Bestimmen
+Bemerkung
+Buch
 ist
 in
 info
@@ -4455,6 +4470,7 @@ int
 into
 interface
 integrieren
+irgendeine
 aufgebaut
 ay
 ahhH
@@ -6143,6 +6159,7 @@ verstärkt
 verzerrt
 vertreten
 vielleicht
+verlangt
 bjj
 boo
 bP

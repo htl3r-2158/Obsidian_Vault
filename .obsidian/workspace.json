@@ -13,24 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Mathe/Integralrechnung.md",
+                "file": "Schule/BW/Unternehmungsführung (Management) im Überblick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integralrechnung"
+              "title": "Unternehmungsführung (Management) im Überblick"
             }
           },
           {
-            "id": "54c48e2ce48de212",
+            "id": "be4d42ec869269e8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-09 08.24.30.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-04-09 09.30.45.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-09 08.24.30.excalidraw"
+              "title": "Drawing 2025-04-09 09.30.45.excalidraw"
+            }
+          },
+          {
+            "id": "336810f458f131aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-09 09.11.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 09.11.52.excalidraw"
+            }
+          },
+          {
+            "id": "512972424998bc4a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-09 08.51.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 08.51.33.excalidraw"
+            }
+          },
+          {
+            "id": "c70d0a78025745c4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-09 08.49.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 08.49.08.excalidraw"
             }
           },
           {
@@ -166,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/Mathe/Kostenfunktion als kubische Funktion.md",
+                "file": "Schule/BW/Unternehmungsführung (Management) im Überblick.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kostenfunktion als kubische Funktion"
+              "title": "Outline of Unternehmungsführung (Management) im Überblick"
             }
           },
           {
@@ -226,11 +262,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cde368f946adfb9",
+  "active": "798d447047eccace",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-04-09 08.24.30.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-09 08.29.19.excalidraw.md",
     "Schule/Mathe/Integralrechnung.md",
+    "Excalidraw/Drawing 2025-04-09 09.30.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-09 09.11.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-09 08.51.33.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-09 08.49.08.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-09 08.29.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-09 08.24.30.excalidraw.md",
     "Schule/Mathe/Kostenfunktion als kubische Funktion.md",
     "Schule/GGP/Ideologien.md",
     "Excalidraw/Drawing 2025-04-07 11.05.59.excalidraw.md",
@@ -250,10 +290,6 @@
     "Optik.md",
     "Schule/physik/Untitled.md",
     "Schule/BW/Unternehmungsführung (Management) im Überblick.md",
-    "Schule/Mathe/Asymptoten.md",
-    "Schule/Mathe/Schularbeitsstoff.md",
-    "Excalidraw/Drawing 2025-03-26 09.19.22.excalidraw.md",
-    "Schule/SYT/GETE/Lichtschranke.md",
     "Schule/physik",
     "Untitled",
     "Schule/Images/IMG_5534.jpg",
