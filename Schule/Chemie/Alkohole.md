@@ -27,3 +27,39 @@ _suffix: ol_
 
 ### 2) Nach Anzahl der Hydroxygruppen
 ![[Drawing 2025-03-11 11.19.32.excalidraw | 1000]]
+
+## Aldehyde & Ketone
+Funktionelle Gruppe:  **Carbonylgruppe**
+![[Drawing 2025-04-22 10.58.16.excalidraw | 100]]
+### Aldehyd
+![[Drawing 2025-04-22 10.58.48.excalidraw | 100]]
+_endständige Carbonylgruppe_
+
+Suffix: "AL"
+Präfix: "Formyl"
+
+### Keton
+![[Drawing 2025-04-22 11.01.46.excalidraw | 100]]
+Suffix: "-ON"
+Präfix "OXO-"
+
+### Priorität
+Carbonsäure > Aldehyd > Keton > Alkohol > Halogene > Alkene >Alkine > Alkane
+
+![[Drawing 2025-04-22 11.04.18.excalidraw]]
+
+
+### Polarität
+![[Drawing 2025-04-22 11.08.53.excalidraw]]
+
+### Bsp.:
+![[Drawing 2025-04-22 11.11.50.excalidraw | 750]]
+
+### armotaische Aldehyde
+#### Bittermandelaroma (Marzipan)
+![[Drawing 2025-04-22 11.16.27.excalidraw | 100]]
+
+#### Zimtaldehyd
+![[Drawing 2025-04-22 11.17.57.excalidraw | 200]]
+#### Vanillin
+![[Drawing 2025-04-22 11.19.47.excalidraw | 200]]

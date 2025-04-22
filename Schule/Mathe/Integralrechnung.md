@@ -41,3 +41,7 @@ $\int x^n dx = \frac{x^{n+1}}{n+1} + c \ (n \neq - 1)$
 ## Beispiele
 ![[Drawing 2025-04-09 08.51.33.excalidraw | 700]]
 ![[Drawing 2025-04-09 09.11.52.excalidraw | 1000]]
+## Stoff
+![[Drawing 2025-04-11 13.51.53.excalidraw | 1000]]
+## Beispiele
+![[Drawing 2025-04-11 14.01.06.excalidraw]]
