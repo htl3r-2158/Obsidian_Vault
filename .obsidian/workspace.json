@@ -222,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -346,7 +347,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "798d447047eccace",
+  "active": "2cde368f946adfb9",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-04-22 11.19.47.excalidraw.md",
     "Schule/Chemie/Alkohole.md",
