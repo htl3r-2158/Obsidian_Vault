@@ -8,41 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b53aada9e323879",
+            "id": "7de86056be7a014b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Mathe/Integral.md",
+                "file": "Schule/Mathe/Flächenberechnung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integral"
-            }
-          },
-          {
-            "id": "2ee13866adf6e29f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-05-07 08.28.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-07 08.28.11.excalidraw"
-            }
-          },
-          {
-            "id": "7de86056be7a014b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-05-05 08.09.52.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-05 08.09.52.excalidraw"
+              "title": "Flächenberechnung"
             }
           },
           {
@@ -186,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "e155171b76b93bd1",
@@ -251,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schule/BW/Unternehmungsführung (Management) im Überblick.md",
+                "file": "Schule/Mathe/Flächenberechnung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unternehmungsführung (Management) im Überblick"
+              "title": "Outline of Flächenberechnung"
             }
           },
           {
@@ -311,24 +286,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b53aada9e323879",
+  "active": "798d447047eccace",
   "lastOpenFiles": [
-    "Ink/Drawing/2025.5.7 - 9.36am.drawing",
-    "Ink/Drawing/2025.5.7 - 9.26am.drawing",
-    "Ink/Drawing/2025.5.7 - 9.24am.drawing",
-    "Ink/Drawing/2025.5.7 - 9.22am.drawing",
-    "Ink/Drawing/2025.5.7 - 9.17am.drawing",
-    "Ink/Drawing/2025.5.7 - 9.09am.drawing",
-    "Ink/Drawing/2025.5.7 - 8.49am.drawing",
-    "Ink/Drawing/2025.5.7 - 8.30am.drawing",
+    "Schule/Mathe/Flächenberechnung.md",
+    "Schule/Mathe/Stoff 4. Schularbeit.md",
+    "Ink/Drawing/2025.5.16 - 14.08pm.drawing",
+    "Ink/Drawing/2025.5.16 - 14.05pm.drawing",
+    "Ink/Drawing/2025.5.14 - 9.15am.drawing",
+    "Excalidraw/Drawing 2025-04-30 09.28.05.excalidraw.md",
+    "Ink/Drawing/2025.5.16 - 13.44pm.drawing",
+    "Schule/BW/Führung.md",
+    "Excalidraw/Drawing 2025-05-14 09.08.54.excalidraw.md",
+    "Ink/Drawing/2025.5.14 - 8.57am.drawing",
+    "Ink/Drawing/2025.5.14 - 8.45am.drawing",
+    "Ink/Drawing/2025.5.14 - 8.35am.drawing",
+    "Ink/Drawing/2025.5.14 - 8.28am.drawing",
+    "Ink/Drawing/2025.5.14 - 8.22am.drawing",
+    "Schule/Mathe/Wiederholung_Wiederholung.md",
+    "Schule/Chemie/Teststoff 4. Test.md",
+    "Ink/Drawing/2025.5.9 - 13.52pm.drawing",
+    "Excalidraw/Drawing 2025-05-05 08.09.52.excalidraw.md",
+    "Schule/Chemie/Ausarbeitung.md",
+    "Schule/Chemie/Alkohole.md",
+    "Schule/Chemie/Kunststoffe.md",
+    "Schule/BW/Unternehmungsführung (Management) im Überblick.md",
     "Excalidraw/Drawing 2025-05-07 08.28.11.excalidraw.md",
     "Schule/Mathe/Integral.md",
-    "Ink/Drawing/2025.5.7 - 8.13am.drawing",
     "Schule/Mathe/Hausübungen/Aufgabe - bestimmtes Integral.md",
-    "Excalidraw/Drawing 2025-05-05 08.09.52.excalidraw.md",
-    "Schule/Chemie/Teststoff 4. Test.md",
-    "Ink/Drawing/2025.5.6 - 11.27am.drawing",
-    "Ink/Drawing/2025.5.6 - 11.18am.drawing",
     "Excalidraw/Drawing 2025-05-06 10.58.18_0.excalidraw.md",
     "Excalidraw/Drawing 2025-05-06 10.58.18.excalidraw.md",
     "Schule/physik/Snellius.md",
@@ -340,15 +324,6 @@
     "Excalidraw/Drawing 2025-04-02 08.32.07.excalidraw.md",
     "Excalidraw/Drawing 2025-04-02 08.57.38.excalidraw.md",
     "Excalidraw/Drawing 2025-04-04 13.53.07.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-04 14.01.11.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-04 14.08.20.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-09 08.24.30.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-26 08.19.57.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-26 08.53.10.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-11 13.51.53.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-11 14.01.06.excalidraw.md",
-    "Schule/physik/Licht.md",
-    "Schule/Mathe/SMÜ-Verbesserung + Ergänzungen.md",
     "Schule/Images/WhatsApp Bild 2025-04-29 um 10.28.38_9a780795.jpg",
     "Schule/Images/WhatsApp Bild 2025-04-29 um 10.28.55_eb28d901.jpg",
     "Schule/Images/WhatsApp Bild 2025-04-29 um 10.28.44_898ddcd7.jpg",

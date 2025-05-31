@@ -70,3 +70,33 @@ Monetäre und nicht monetäre Ziele für einen "Gewinn unter Nebenbedingungen"
 
 ### Unternehmensleitbild
 Das Unternehmenslietbild ist die schriftliche Dokumentation der Vision, Mission, Werte, Normen und Unternehmensziele eines Unternehmens.
+
+## Unternehmensführung iii
+### Planung
+Branchenanalyse mit dem Fünf Kräfte Modell
+
+```mermaid
+graph TD;
+a(Verhandlungstärke der Lieferanten) --- b(Konkurrenz zwischen bestehenden Wettbewerbern)
+c(Bedrohung durch neue Wettbewerber) --- b
+d(Verhandlugsstärke der Kunden) --- b
+e(Bedrohung durch Ersatzprodukte oder -leistungen) --- b
+```
+#### Interne Analyse
+Bei internen Analyse werden die Stärken und Schwächen des Unternehmens untersucht.
+
+#### SWOT-Analyse
+
+
+|                 |         | Interne Analyse                                     |                                                                                 |
+| --------------- | ------- |:--------------------------------------------------- | ------------------------------------------------------------------------------- |
+|                 |         | Stärken                                             | Schwächen                                                                       |
+| Externe Analyse | Chancen | Einsatz der eigenen Stärken zur Nutzung von Chancen | Überwindung der eigenen Schwächen durch Nutzung von externen Chancen            |
+|                 | Risiken | Nutzung der eigenen Stärken, um Risiken abzuwehren  | Abbau der eigenen Schwächen, um sie nicht zum Ziel von Risiken werden zu lassen |
+
+## Chancen-Risiken-Analyse (CR-Analyse)
+- Im Rahmen der CR-Analyse sollen die unternehmens-externen Umwelteinflüsse identifiziert werden, die für die Planung der Unternehmens und Marketingstrategie von Bedeutung sind.
+- Im Mittelpunkt der CR-Analyse steht die Annahme, dass ein Unternehmen dann mit einer Umweltentwicklung besser fertig werden kann als seine Wettbewerber, wenn diese auf eine Stärke des Unternehmens trifft, der Vorteil vom Management erkannt und konsequent genutzt wird,
+- Auch bei einer Umweltveränderung, die mit einer relativen Schwäche des Unternehmens zusammenfällt, ist es wichtig, die damit verbundenen besonderen Risiken zu erkennen, um Gegenmaßnahmen zum frühestmöglichen
+
+## CR-Analyse Automobilhersteller
