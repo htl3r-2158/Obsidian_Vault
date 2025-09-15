@@ -63,4 +63,4 @@ x^2 \
 
 $$
 
-[[flowcharts]]
+[[Misc/flowcharts]]
