@@ -1,7 +1,0 @@
-**Einleitung:** Täglich sieht man Schüler/innen in der Pause aufs Smartphone starren. Was auf den ersten Blick nach moderner Kommunikation aussieht, wirft bei genauerem Hinsehen große Fragen auf: Gehören Handys wirklich in den Schulalltag?
-
-**Hauptteil:** Natürlich bieten Smartphones Vorteile: Lernapps, schnelle Informationssuche und digitale Organisation sind aus dem Leben junger Menschen nicht mehr wegzudenken. Dennoch darf man nicht übersehen, dass Handys an Schulen oft mehr schaden als nützen.  
-Ablenkung im Unterricht, Cybermobbing und ständige Erreichbarkeit führen zu Stress und Konzentrationsproblemen. Studien zeigen, dass Schüler/innen ohne Smartphonezugang während der Schulzeit bessere Leistungen erzielen.  
-Zwar argumentieren Befürworter/innen, dass ein moderater Umgang erlernbar sei. In der Realität jedoch fällt es Jugendlichen schwer, die Versuchung zu kontrollieren – ein weiterer Stressfaktor, den Schulen vermeiden sollten.
-
-**Schluss:** Handys gehören nicht in die Klassenzimmer. Schulen sollten Räume bleiben, in denen konzentriertes Lernen möglich ist. Nur durch klare Regeln und bewusste Pausen von der digitalen Welt können junge Menschen ihre Fähigkeiten voll entfalten. Es ist Zeit, klare Grenzen zu setzen – zum Wohl der Schüler/innen.

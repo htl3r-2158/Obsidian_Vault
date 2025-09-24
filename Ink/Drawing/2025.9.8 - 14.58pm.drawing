@@ -13915,9 +13915,9 @@
 				{
 					"pageId": "page:3qj9EtNgqSCW_6knX2K9_",
 					"camera": {
-						"x": 0,
-						"y": 0,
-						"z": 0.3
+						"x": -2.9771326164872107,
+						"y": 1020.5814902847105,
+						"z": 0.13216326604326303
 					},
 					"selectedShapeIds": [],
 					"focusedGroupId": null
