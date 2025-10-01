@@ -1,3 +1,6 @@
+---
+noteID: 2bfa57f4-2415-4f42-81b1-a22b6beff223
+---
 1. Serverrollen:
 	- Active Directory Domänendienste
 2. Zu Domäncontroller heraufstufen (Oben rechts Info Kasterl)
@@ -7,6 +10,12 @@
 		- Kennwort-Wiederhstellungsmodus ganz lang weil komplettes backup
 		- Script anzeigen lassen (Für zum Beispiel core)
 		- !!! IP-Adresse und Name müssen richtig sein !!! (sonst schwer zu ändern)
+3. DHCP Server einrichten (Ich glaub auch wieder oben rechts)
+	1. Präfix
+	2. Ausschlüsse (Excluded Addresses)
+	3. Lease Dauer
+	4. DNS (Unter DHCP server wahl unter bereich)
+		1. DNS Server eingeben
 
 ```bash
 # Logs anzeigen Linux
@@ -27,4 +36,9 @@ StandardError=null
 sudo systemctl daemon-reload
 systemctl enable dhcrelay
 sudo systemctl restart dhcrelay
+```
+
+## Core server
+```bash
+
 ```

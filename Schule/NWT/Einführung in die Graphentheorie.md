@@ -38,9 +38,7 @@ noteID: 6e0eb021-bc71-40f5-8503-dd2360f5f362
 
  - $G$ ist ein ungerichteter Graph
 - Der $Grad$ ($degree$, $dev (v)$) eines Knotens $v$ ist die Zahl der Kanten in $g$, die $v$ enthalten
-- Eine folge ($v_1,... v_k$) von paarweise verschiedenen Knoten heißt $Weg$ ($path$) in $G$ falls $v_1,...
-
-
+- Eine folge ($v_1,... v_k$) von paarweise verschiedenen Knoten heißt $Weg$ ($path$) in $G$ falls $v_1,...$
 ## Graphenrepräsentation im Computer
 - Problem: Klassifizierung des Zeitbedarfs zu Lösung algorithmischer Probleme
 	- Konstruktion von theoretische Maschinenmodelle, wie die Turing - MAschinen
@@ -57,7 +55,6 @@ noteID: 6e0eb021-bc71-40f5-8503-dd2360f5f362
 	- Knoten sind hierarchisch angeordnet
 	- oberster Knoten: ==Wurzel==
 	- jede innere Knoten hat genau zwei Nachfolger
-	- Auf den untersten Ebenen stehen die blätter
+	- Auf den untersten Ebenen stehen die Blätter
 
 > Ein ==Baum== ist ein endlicher ungerichteter Graph, der zusammenhängend ist und keine Kreise enthält
-

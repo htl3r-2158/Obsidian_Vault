@@ -74,3 +74,11 @@ Wiederholung
 - Argumentum ad misericodriam
 - Argumentum ad populum
 - Argumentum ad ad hominem
+
+## Merkmale der (Meinungs-) Rede
+- Druckfassung
+- vorher definiertes Publikum
+- Persönliche Einstellung zum Thema
+- Rhetorische Stilfiguren
+- Anschauliche Sprache
+- Argumentieren, beschreiben, erklären

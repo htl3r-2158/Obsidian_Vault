@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "dhcp",
-  "showTags": true,
+  "search": "",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -101,14 +101,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 2.04134948096886,
+  "textFadeMultiplier": 1.8,
+  "nodeSizeMultiplier": 1.60051903114187,
   "lineSizeMultiplier": 2.16003460207612,
   "collapse-forces": false,
-  "centerStrength": 0.306228373702422,
-  "repelStrength": 10.6228373702422,
-  "linkStrength": 0.23356401384083,
+  "centerStrength": 0.621107266435986,
+  "repelStrength": 20,
+  "linkStrength": 1,
   "linkDistance": 262,
-  "scale": 0.3882717792910367,
-  "close": true
+  "scale": 0.09948616292775542,
+  "close": false
 }
